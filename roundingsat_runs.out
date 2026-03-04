@@ -1,0 +1,519 @@
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_100_10_1_15.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_100_10_1_15.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_200_10_4_40.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_200_10_4_40.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_500_10_3_80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_500_10_3_80.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_10_4_5_8.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_10_4_5_8.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_200_25_4_15.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_200_25_4_15.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_100_25_1_15.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_100_25_1_15.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_500_25_2_80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_500_25_2_80.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_500_10_1_80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_500_10_1_80.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_500_25_3_15.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_500_25_3_15.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/DEC-NLC/submittedPB07/manquinho/dbsg/normalized-dbsg_10_4_3_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbsg_10_4_3_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=9-P0=149-P1=419-P2=307-P3=223-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=9-P0=149-P1=419-P2=307-P3=223-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=8-P0=53-P1=17-P2=109-P3=2-P4=191-P5=191-P6=47-P7=101-P8=97-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=8-P0=53-P1=17-P2=109-P3=2-P4=191-P5=191-P6=47-P7=101-P8=97-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=5-P0=19-P1=29-P2=19-P3=23-P4=2-P5=29-P6=7-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=5-P0=19-P1=29-P2=19-P3=23-P4=2-P5=29-P6=7-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=7-P0=53-P1=5-P2=67-P3=53-P4=17-P5=103-P6=29-P7=71-P8=47-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=7-P0=53-P1=5-P2=67-P3=53-P4=17-P5=103-P6=29-P7=71-P8=47-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=5-P0=17-P1=17-P2=13-P3=17-P4=29-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=5-P0=17-P1=17-P2=13-P3=17-P4=29-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=5-P0=13-P1=5-P2=17-P3=2-P4=29-P5=5-P6=19-P7=17-P8=5-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=5-P0=13-P1=5-P2=17-P3=2-P4=29-P5=5-P6=19-P7=17-P8=5-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=6-P0=11-P1=37-P2=59-P3=23-P4=53-P5=31-P6=59-P7=29-P8=2-P9=67-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=6-P0=11-P1=37-P2=59-P3=23-P4=53-P5=31-P6=59-P7=29-P8=2-P9=67-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=7-P0=107-P1=13-P2=17-P3=127-P4=13-P5=53-P6=73-P7=59-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=7-P0=107-P1=13-P2=17-P3=127-P4=13-P5=53-P6=73-P7=59-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=8-P0=197-P1=97-P2=163-P3=151-P4=53-P5=139-P6=107-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=8-P0=197-P1=97-P2=163-P3=151-P4=53-P5=139-P6=107-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/roussel/factor-mod-B/factor-mod-size=9-P0=307-P1=59-P2=149-P3=337-P4=409-P5=457-P6=79-P7=53-P8=347-P9=487-B.opb --proof-log=/cluster/PB24_roundingsat_proofs/factor-mod-size=9-P0=307-P1=59-P2=149-P3=337-P4=409-P5=457-P6=79-P7=53-P8=347-P9=487-B.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_1000_25_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_1000_25_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_200_25_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_200_25_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_200_25_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_200_25_4.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_500_60_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_500_60_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_100_25_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_100_25_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_100_10_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_100_10_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_500_10_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_500_10_2.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_1000_25_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_1000_25_2.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_200_10_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_200_10_4.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mds/normalized-mds_10_4_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mds_10_4_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_200_25_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_200_25_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_500_25_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_500_25_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_500_10_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_500_10_2.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_500_60_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_500_60_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_100_10_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_100_10_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_100_10_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_100_10_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_1000_25_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_1000_25_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_50_25_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_50_25_4.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_100_25_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_100_25_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/mis/normalized-mis_500_25_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-mis_500_25_4.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_1000_25_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_1000_25_4.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_500_25_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_500_25_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_50_25_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_50_25_3.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_50_10_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_50_10_2.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_500_10_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_500_10_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_200_25_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_200_25_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_10_4_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_10_4_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_1000_60_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_1000_60_5.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_10_4_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_10_4_1.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-NLC/submittedPB07/manquinho/bsg/normalized-bsg_200_10_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bsg_200_10_2.pbp
+Non-zero exit status (and not timeout)
+c RoundingSat 2 c branch master c commit 57d44ad Error: Invalid opb header.
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/area_partials/normalized-fir05_area_partials.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir05_area_partials.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_8.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_8.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_9.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_9.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_10.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_6.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_6.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_5.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_7.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_7.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/decomp/normalized-matrix_5x3_4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-matrix_5x3_4.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir04_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir04_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir06_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir06_trarea_ac.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir05_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir05_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir01_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir01_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir03_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir03_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir08_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir08_trarea_ac.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir10_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir10_trarea_ac.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir02_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir02_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir09_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir09_trarea_ac.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/trarea_ac/normalized-fir07_trarea_ac.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir07_trarea_ac.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/area_delay/normalized-fir08_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir08_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/area_opers/normalized-fir04_area_opers.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir04_area_opers.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/aksoy/area_opers/normalized-fir06_area_opers.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fir06_area_opers.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-6_12.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-6_12.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-5_10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-5_10.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-8_16.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-8_16.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-7_14.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-7_14.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-10_20.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10_20.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/poldner/PB/testset/normalized-11_22.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-11_22.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_010_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_010_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_026_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_026_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_001_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_001_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_019_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_019_area_delay.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_025_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_025_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB07/OPT-LIN/submittedPB07/manquinho/areaDelay/normalized-f20c10b_023_area_delay.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-f20c10b_023_area_delay.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.ex.br.mem.RobRegValid_bar.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.ex.br.mem.RobRegValid_bar.ucl.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.burch_dill.4.accl.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.burch_dill.4.accl.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.tag14.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.tag14.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.ex.mem.LdValue.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.ex.mem.LdValue.ucl.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-blast-floppy1-6.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-blast-floppy1-6.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.ex.mem.LsqHdStrong.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.ex.mem.LsqHdStrong.ucl.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.rf7.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.rf7.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.tag10.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.tag10.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-25s.smv.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-25s.smv.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-cache-ibm-q-unbounded.Ih2arity.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cache-ibm-q-unbounded.Ih2arity.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-22s.smv.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-22s.smv.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-ooo.rf10.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ooo.rf10.ucl.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-blast-floppy1-8.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-blast-floppy1-8.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-blast-tlan3.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-blast-tlan3.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/uclid_pb_benchmarks/normalized-cache-ibm-q-unbounded.Ic22arity.ucl.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cache-ibm-q-unbounded.Ic22arity.ucl.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:3-13,25,26.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:3-13,25,26.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:1-12,16.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:1-12,16.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:1-9,16-19.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:1-9,16-19.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:1-13.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:1-13.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:1,3-13,19.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:1,3-13,19.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/ppp-problems/normalized-ppp:1-11,19,21.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ppp:1-11,19,21.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-chnl50_55_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-chnl50_55_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga20_20_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga20_20_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-chnl35_45_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-chnl35_45_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-chnl35_36_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-chnl35_36_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga25_24_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga25_24_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga30_30_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga30_30_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga15_13_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga15_13_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga30_29_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga30_29_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga45_43_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga45_43_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga14_14_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga14_14_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga35_33_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga35_33_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga40_40_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga40_40_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga30_28_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga30_28_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga40_38_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga40_38_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB05/aloul/FPGA_SAT05/normalized-fpga11_10_sat_pb.cnf.cr.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fpga11_10_sat_pb.cnf.cr.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob6.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob6.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-cuww2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cuww2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-cuww3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cuww3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-cuww1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cuww1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob5.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob8.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob8.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-cuww5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cuww5.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob7.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob7.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob4.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-cuww4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cuww4.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/manquiho/Aardal_1/normalized-prob10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-prob10.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111221953.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111221953.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111228076.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111228076.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111226680.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111226680.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111223696.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111223696.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1110973163.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1110973163.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111222080.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111222080.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1110971097.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1110971097.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111222248.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111222248.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111226368.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111226368.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1110978334.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1110978334.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1110967523.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1110967523.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111217374.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111217374.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111221624.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111221624.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111217392.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111217392.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/wnqueen/normalized-t2001.13queen13.1111212272.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t2001.13queen13.1111212272.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900553606.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900553606.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900577000.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900577000.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900569834.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900569834.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900552735.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900552735.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900566157.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900566157.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900557957.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900557957.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900545610.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900545610.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900564281.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900564281.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900568706.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900568706.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900574864.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900574864.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900559676.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900559676.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900566270.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900566270.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900571132.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900571132.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900566263.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900566263.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/namasivayam/tsp/normalized-t3002.11tsp11.1900573901.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-t3002.11tsp11.1900573901.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v50_e1000_d25_mw10_3.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v50_e1000_d25_mw10_3.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v30_e350_d15_mw10_8.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v30_e350_d15_mw10_8.opb.PB06.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v40_e600_d20_mw10_6.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v40_e600_d20_mw10_6.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v40_e600_d20_mw10_9.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v40_e600_d20_mw10_9.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v40_e600_d20_mw10_0.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v40_e600_d20_mw10_0.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v50_e1000_d25_mw10_6.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v50_e1000_d25_mw10_6.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v50_e1000_d25_mw10_9.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v50_e1000_d25_mw10_9.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v50_e1000_d25_mw10_5.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v50_e1000_d25_mw10_5.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v50_e1000_d25_mw10_1.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v50_e1000_d25_mw10_1.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v40_e600_d20_mw10_2.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v40_e600_d20_mw10_2.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v30_e350_d15_mw10_3.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v30_e350_d15_mw10_3.opb.PB06.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v30_e350_d15_mw10_2.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v30_e350_d15_mw10_2.opb.PB06.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v30_e350_d15_mw10_9.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v30_e350_d15_mw10_9.opb.PB06.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v40_e600_d20_mw10_5.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v40_e600_d20_mw10_5.opb.PB06.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/dbst/normalized-dbst_v30_e350_d15_mw10_1.opb.PB06.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-dbst_v30_e350_d15_mw10_1.opb.PB06.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/vdw/normalized-vdw_k6_l3_n170.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-vdw_k6_l3_n170.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/vdw/normalized-vdw_k5_l4_n750.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-vdw_k5_l4_n750.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/vdw/normalized-vdw_k3_l5_n550.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-vdw_k3_l5_n550.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/vdw/normalized-vdw_k4_l4_n360.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-vdw_k4_l4_n360.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/liu/vdw/normalized-vdw_k3_l6_n1500.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-vdw_k3_l6_n1500.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-45-40.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-45-40.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-91-90.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-91-90.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-61-60.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-61-60.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-35-30.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-35-30.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-51-50.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-51-50.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-105-100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-105-100.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-55-50.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-55-50.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-45-40.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-45-40.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-81-80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-81-80.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-15-10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-15-10.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-11-10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-11-10.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-95-90.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-95-90.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-65-60.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-65-60.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-cardinality-85-80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-cardinality-85-80.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/roussel/normalized-pigeon-clauses-85-80.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pigeon-clauses-85-80.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army13.24ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army13.24ls.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army10.14ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army10.14ls.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army13.24bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army13.24bt.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army11.17ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army11.17ls.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army11.17bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army11.17bt.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army8.9bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army8.9bt.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army12.21bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army12.21bt.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army10.14bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army10.14bt.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army8.9ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army8.9ls.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army12.21ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army12.21ls.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army9.12ls.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army9.12ls.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/armies/normalized-army9.12bt.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-army9.12bt.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin16.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin16.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin14.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin14.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin12.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin12.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin18.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin18.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin10.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/DEC-LIN/submitted-PB06/prestwich/robin/normalized-robin8.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-robin8.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb50-23-opb/normalized-frb50-23-3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb50-23-3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb40-19-opb/normalized-frb40-19-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb40-19-2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb40-19-opb/normalized-frb40-19-1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb40-19-1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb53-24-opb/normalized-frb53-24-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb53-24-2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb53-24-opb/normalized-frb53-24-1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb53-24-1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb30-15-opb/normalized-frb30-15-5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb30-15-5.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb30-15-opb/normalized-frb30-15-1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb30-15-1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb59-26-opb/normalized-frb59-26-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb59-26-2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb35-17-opb/normalized-frb35-17-1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb35-17-1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.nlsde.buaa.edu.cn/~kexu/benchmarks/frb45-21-opb/normalized-frb45-21-1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-frb45-21-1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/course-ass/normalized-ws97-5.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ws97-5.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/course-ass/normalized-ss97-6.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ss97-6.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/course-ass/normalized-ss97-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ss97-2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/course-ass/normalized-ss97-4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ss97-4.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/course-ass/normalized-ws97-3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ws97-3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-30:70:4.5:0.95:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-30:70:4.5:0.95:100.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-10:20:4.5:0.95:98.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10:20:4.5:0.95:98.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-30:30:4.5:0.95:98.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-30:30:4.5:0.95:98.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-10:20:4.5:0.5:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10:20:4.5:0.5:100.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-10:10:4.5:0.95:98.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10:10:4.5:0.95:98.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-30:30:4.5:0.95:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-30:30:4.5:0.95:100.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-30:70:4.5:0.5:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-30:70:4.5:0.5:100.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-10:20:4.5:0.95:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10:20:4.5:0.95:100.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-10:10:4.5:0.95:100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-10:10:4.5:0.95:100.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/web/www.ps.uni-sb.de/~walser/benchmarks/radar/normalized-30:70:4.5:0.95:98.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-30:70:4.5:0.95:98.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g7x7.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g7x7.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g9x3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g9x3.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g4x4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g4x4.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g2x2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g2x2.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g100x100.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g100x100.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g9x9.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g9x9.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/sorensson/garden/normalized-g15x15.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-g15x15.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/synthesis-ptl-cmos-circuits/normalized-cc.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-cc.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/logic-synthesis/normalized-exam.pi.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-exam.pi.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-data4_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-data4_3.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-data8_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-data8_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-circ10_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-circ10_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-data10_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-data10_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-data6_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-data6_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-circ8_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-circ8_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-circ6_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-circ6_3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/ttp/normalized-circ4_3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-circ4_3.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-6pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-6pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s3-3-3-2pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s3-3-3-2pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-8pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-8pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-9pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-9pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s3-3-3-5pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s3-3-3-5pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-2pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-2pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-4pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-4pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s3-3-3-4pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s3-3-3-4pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-5pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-5pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/routing/normalized-s4-4-3-1pb.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-s4-4-3-1pb.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-aim-200-3_4-yes1-3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-aim-200-3_4-yes1-3.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-ii32e4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ii32e4.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-ii32c3.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ii32c3.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-aim-200-3_4-yes1-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-aim-200-3_4-yes1-2.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-par32-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-par32-2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-ii16a2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ii16a2.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-aim-50-2_0-yes1-4.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-aim-50-2_0-yes1-4.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-aim-200-2_0-yes1-2.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-aim-200-2_0-yes1-2.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-ii16d1.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ii16d1.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB05/manquinho/primes-dimacs-cnf/normalized-ssa7552-038.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ssa7552-038.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.07.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.07.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.14.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.14.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.12.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.12.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-unif-100_100.08.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-unif-100_100.08.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.10.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.10.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-unif-100_100.00.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-unif-100_100.00.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.11.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.11.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/haplotype/normalized-simp-nonunif-100_100.02.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-simp-nonunif-100_100.02.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-ex1010.pi.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-ex1010.pi.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-addm4.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-addm4.r.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-fout.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-fout.r.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-m4.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-m4.r.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-bench1.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-bench1.r.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-pdc.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-pdc.r.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-maincont.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-maincont.r.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/logic_synthesis/normalized-m50_100_70_70.r.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-m50_100_70_70.r.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/golomb-rulers/normalized-OGR_18.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-OGR_18.pbp
+Timed out
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/golomb-rulers/normalized-OGR_7.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-OGR_7.pbp
+timeout 10 /cluster/arthur/roundingsat/roundingsat/build/roundingsat /cluster/PB24/normalized-PB06/OPT-LIN/submitted-PB06/manquiho/golomb-rulers/normalized-OGR_17.opb --proof-log=/cluster/PB24_roundingsat_proofs/normalized-OGR_17.pbp
