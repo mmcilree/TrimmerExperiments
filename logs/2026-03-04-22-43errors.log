@@ -1,0 +1,1761 @@
+=== job error at 2026-03-04 22:43:23.329758 ==
+Non-zero exit status: 2
+job.id=27
+args={'instance': '/cluster/sat25-instances/1a92907cdec0528583a8f49a818b406d-BubbleVsPancakeSort_8_4.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/1a92907cdec0528583a8f49a818b406d-BubbleVsPancakeSort_8_4.cnf /cluster/satsuma_kissat_proofs_to_trim/1a92907cdec0528583a8f49a818b406d-BubbleVsPancakeSort_8_4.pbp
+
+=== begin stderr ===
+Running as unit: run-p98677-i4291503.scope; invocation ID: 694142fddb2444d2aa6ec5f9e5ce7857
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.331468 ==
+Non-zero exit status: 2
+job.id=49
+args={'instance': '/cluster/sat25-instances/3197b65ef50328394a0c9e73281d7122-b20_1.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/3197b65ef50328394a0c9e73281d7122-b20_1.cnf /cluster/satsuma_kissat_proofs_to_trim/3197b65ef50328394a0c9e73281d7122-b20_1.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98653-i4291479.scope; invocation ID: cde39127e5e24b0886d237503cb6ee05
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.332546 ==
+Non-zero exit status: 2
+job.id=51
+args={'instance': '/cluster/sat25-instances/321732c1a401ff109b2f2b447e3dbe5e-16_16_booth_wallace_mapped_and_default_origin_bit28.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/321732c1a401ff109b2f2b447e3dbe5e-16_16_booth_wallace_mapped_and_default_origin_bit28.cnf /cluster/satsuma_kissat_proofs_to_trim/321732c1a401ff109b2f2b447e3dbe5e-16_16_booth_wallace_mapped_and_default_origin_bit28.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98627-i4291453.scope; invocation ID: 3aa7e84af0874153a4d9f84338f2f70b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.333561 ==
+Non-zero exit status: 2
+job.id=63
+args={'instance': '/cluster/sat25-instances/3f67f6767764855e516e5394be1145e5-gto_p60c238-sc2018.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/3f67f6767764855e516e5394be1145e5-gto_p60c238-sc2018.cnf /cluster/satsuma_kissat_proofs_to_trim/3f67f6767764855e516e5394be1145e5-gto_p60c238-sc2018.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98613-i4291439.scope; invocation ID: 5d40177e8c514f29892a07c23648d0fc
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.334481 ==
+Non-zero exit status: 2
+job.id=67
+args={'instance': '/cluster/sat25-instances/42f1311ce504db8cc0cb590a568da20a-tseitin_n188_d3.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/42f1311ce504db8cc0cb590a568da20a-tseitin_n188_d3.cnf /cluster/satsuma_kissat_proofs_to_trim/42f1311ce504db8cc0cb590a568da20a-tseitin_n188_d3.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98620-i4291446.scope; invocation ID: 47a77e4dd55b43c9a0cdf4ad3c5e966b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.335399 ==
+Non-zero exit status: 2
+job.id=108
+args={'instance': '/cluster/sat25-instances/6fab31665147f538da92dc16c3a239ad-stb_664_50.apx_2_DC-ST.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/6fab31665147f538da92dc16c3a239ad-stb_664_50.apx_2_DC-ST.cnf /cluster/satsuma_kissat_proofs_to_trim/6fab31665147f538da92dc16c3a239ad-stb_664_50.apx_2_DC-ST.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561312-i21524305.scope; invocation ID: 9d5b26fda4994e548e7c51f55100584c
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.336182 ==
+Non-zero exit status: 2
+job.id=128
+args={'instance': '/cluster/sat25-instances/8a05f9b6bf49285e40d0a197967ea5d3-arles_thres10_p10_r7466.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/8a05f9b6bf49285e40d0a197967ea5d3-arles_thres10_p10_r7466.cnf /cluster/satsuma_kissat_proofs_to_trim/8a05f9b6bf49285e40d0a197967ea5d3-arles_thres10_p10_r7466.pbp
+
+=== begin stderr ===
+Running as unit: run-p561336-i21524329.scope; invocation ID: a16a2202fc704735ab64c23ba768052c
+kissat: error: temporary.cnf:1: parse error: empty file
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.336945 ==
+Non-zero exit status: 2
+job.id=138
+args={'instance': '/cluster/sat25-instances/944b4eaecefa1d15c2d2a8ac0c2d1c31-b14.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/944b4eaecefa1d15c2d2a8ac0c2d1c31-b14.cnf /cluster/satsuma_kissat_proofs_to_trim/944b4eaecefa1d15c2d2a8ac0c2d1c31-b14.pbp
+
+=== begin stderr ===
+Running as unit: run-p561346-i21524339.scope; invocation ID: 12210ddf9c104b5ea06e2ad3a66d1388
+kissat: error: temporary.cnf:1: parse error: unexpected end-of-file after '-'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.337726 ==
+Non-zero exit status: 2
+job.id=140
+args={'instance': '/cluster/sat25-instances/967b58fea99a99b8da592d3e2fe7139b-dubois50.cnf.mis-99.debugged.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/967b58fea99a99b8da592d3e2fe7139b-dubois50.cnf.mis-99.debugged.cnf /cluster/satsuma_kissat_proofs_to_trim/967b58fea99a99b8da592d3e2fe7139b-dubois50.cnf.mis-99.debugged.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561348-i21524341.scope; invocation ID: ab6f90bd46d840659acdd02431924a32
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.338566 ==
+Non-zero exit status: 2
+job.id=141
+args={'instance': '/cluster/sat25-instances/96977e8e00a3728097861502a449e343-lockchart-group3-L13-K26-p4d3j1.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/96977e8e00a3728097861502a449e343-lockchart-group3-L13-K26-p4d3j1.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/96977e8e00a3728097861502a449e343-lockchart-group3-L13-K26-p4d3j1.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037953-i48152739.scope; invocation ID: d715ce0ed4a0460f8e3769c615f38bf0
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.339353 ==
+Non-zero exit status: 2
+job.id=165
+args={'instance': '/cluster/sat25-instances/ad9eb96bac59319fc2f7daffd1f961f8-AProVE07-21.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/ad9eb96bac59319fc2f7daffd1f961f8-AProVE07-21.cnf /cluster/satsuma_kissat_proofs_to_trim/ad9eb96bac59319fc2f7daffd1f961f8-AProVE07-21.pbp
+
+=== begin stderr ===
+Running as unit: run-p2037978-i48152764.scope; invocation ID: 7ed04225a6f849f08c3454e9c387dc2f
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.340120 ==
+Non-zero exit status: 2
+job.id=179
+args={'instance': '/cluster/sat25-instances/c8d21db50338d9d5743802bcae77a466-cliquecoloring_n14_k7_c6.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/c8d21db50338d9d5743802bcae77a466-cliquecoloring_n14_k7_c6.cnf /cluster/satsuma_kissat_proofs_to_trim/c8d21db50338d9d5743802bcae77a466-cliquecoloring_n14_k7_c6.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037988-i48152774.scope; invocation ID: cd60bf8ee02d449fb1f5ab42418ba281
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:23.340916 ==
+Non-zero exit status: 2
+job.id=197
+args={'instance': '/cluster/sat25-instances/d971241ca861121371d20be1d61c15a3-arles_thres20_p10_r7532.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/d971241ca861121371d20be1d61c15a3-arles_thres20_p10_r7532.cnf /cluster/satsuma_kissat_proofs_to_trim/d971241ca861121371d20be1d61c15a3-arles_thres20_p10_r7532.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037996-i48152782.scope; invocation ID: d44123f1d5df42778a687330de91596b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.342474 ==
+Non-zero exit status: 2
+job.id=3
+args={'instance': '/cluster/sat25-instances/04648cef5bed430ab6429991fa9e107d-ramsey_3_6_19.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/04648cef5bed430ab6429991fa9e107d-ramsey_3_6_19.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/04648cef5bed430ab6429991fa9e107d-ramsey_3_6_19.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98675-i4291501.scope; invocation ID: ec0015b778db4c54840a974412f54b5e
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.343998 ==
+Non-zero exit status: 2
+job.id=9
+args={'instance': '/cluster/sat25-instances/08d56c03e6561f6b9bec2e3f344ea3de-cliquecoloring_n26_k7_c6.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/08d56c03e6561f6b9bec2e3f344ea3de-cliquecoloring_n26_k7_c6.cnf /cluster/satsuma_kissat_proofs_to_trim/08d56c03e6561f6b9bec2e3f344ea3de-cliquecoloring_n26_k7_c6.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98599-i4291425.scope; invocation ID: 3419a9eeedda4dd68085cddd164a907b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.345062 ==
+Non-zero exit status: 2
+job.id=10
+args={'instance': '/cluster/sat25-instances/09cd83e233380d0ba1fc56cee88367b1-s38417.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/09cd83e233380d0ba1fc56cee88367b1-s38417.cnf /cluster/satsuma_kissat_proofs_to_trim/09cd83e233380d0ba1fc56cee88367b1-s38417.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98689-i4291515.scope; invocation ID: f14c41c863c34f6b8c1bd1d7861b151b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.346016 ==
+Non-zero exit status: 2
+job.id=13
+args={'instance': '/cluster/sat25-instances/0ccb0f855352783a972be45188bf3164-SCPC-500-12.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/0ccb0f855352783a972be45188bf3164-SCPC-500-12.cnf /cluster/satsuma_kissat_proofs_to_trim/0ccb0f855352783a972be45188bf3164-SCPC-500-12.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98663-i4291489.scope; invocation ID: 1ac9d7444c7a46f384abcd7a9b792f94
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.346775 ==
+Non-zero exit status: 2
+job.id=28
+args={'instance': '/cluster/sat25-instances/1a936d41e3439d602c3ddcf96458a38c-arles_thres10_p10_r8185.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/1a936d41e3439d602c3ddcf96458a38c-arles_thres10_p10_r8185.cnf /cluster/satsuma_kissat_proofs_to_trim/1a936d41e3439d602c3ddcf96458a38c-arles_thres10_p10_r8185.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p99156-i4291982.scope; invocation ID: 76ea0e06716f462d957f0706f00d6077
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.347587 ==
+Non-zero exit status: 2
+job.id=31
+args={'instance': '/cluster/sat25-instances/1b84df53843ecd90ec8c3c7a01cada6c-ramsey_4_4_18.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/1b84df53843ecd90ec8c3c7a01cada6c-ramsey_4_4_18.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/1b84df53843ecd90ec8c3c7a01cada6c-ramsey_4_4_18.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p99162-i4291988.scope; invocation ID: e3682438e85d43838e8fe428e1504954
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.348302 ==
+Non-zero exit status: 2
+job.id=43
+args={'instance': '/cluster/sat25-instances/292bedf65cee7cc38fe8b2725eb50868-cliquecoloring_n32_k5_c4.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/292bedf65cee7cc38fe8b2725eb50868-cliquecoloring_n32_k5_c4.cnf /cluster/satsuma_kissat_proofs_to_trim/292bedf65cee7cc38fe8b2725eb50868-cliquecoloring_n32_k5_c4.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98595-i4291421.scope; invocation ID: 46032585eda44535a692dde1a37cd544
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.348989 ==
+Non-zero exit status: 2
+job.id=55
+args={'instance': '/cluster/sat25-instances/389bb0a8f3568f4bd0e71771df9093c5-BubbleVsPancakeSort_7_6.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/389bb0a8f3568f4bd0e71771df9093c5-BubbleVsPancakeSort_7_6.cnf /cluster/satsuma_kissat_proofs_to_trim/389bb0a8f3568f4bd0e71771df9093c5-BubbleVsPancakeSort_7_6.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98625-i4291451.scope; invocation ID: 0b6ae918f5d243fa95378b9a555b0d3b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.349704 ==
+Non-zero exit status: 2
+job.id=68
+args={'instance': '/cluster/sat25-instances/43687a48fb119ca61b47c2fc69a71e7d-manthey_single-ordered-initialized-w42-b8.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/43687a48fb119ca61b47c2fc69a71e7d-manthey_single-ordered-initialized-w42-b8.cnf /cluster/satsuma_kissat_proofs_to_trim/43687a48fb119ca61b47c2fc69a71e7d-manthey_single-ordered-initialized-w42-b8.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p98687-i4291513.scope; invocation ID: e0f525bc0dc64fbfa5ea75906890cc95
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.350554 ==
+Non-zero exit status: 2
+job.id=73
+args={'instance': '/cluster/sat25-instances/47f5872181a581dff34eb33123fe3242-b17.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/47f5872181a581dff34eb33123fe3242-b17.cnf /cluster/satsuma_kissat_proofs_to_trim/47f5872181a581dff34eb33123fe3242-b17.pbp
+
+=== begin stderr ===
+Running as unit: run-p98671-i4291497.scope; invocation ID: 097835caffc9452baa6e96ca4d03b461
+kissat: error: temporary.cnf:1: parse error: empty file
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.351215 ==
+Non-zero exit status: 2
+job.id=87
+args={'instance': '/cluster/sat25-instances/5831f35622f3e6c666f0cee6cac60e4c-s38584.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/5831f35622f3e6c666f0cee6cac60e4c-s38584.cnf /cluster/satsuma_kissat_proofs_to_trim/5831f35622f3e6c666f0cee6cac60e4c-s38584.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037897-i48152683.scope; invocation ID: d4640774ca294cc3a7f2b67ef0de9546
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.351861 ==
+Non-zero exit status: 2
+job.id=93
+args={'instance': '/cluster/sat25-instances/5d62e4d7ab116c477c8d4f5bd36907de-lockchart-group2-rnd0.3-L19-K38-P8D4J1_2.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/5d62e4d7ab116c477c8d4f5bd36907de-lockchart-group2-rnd0.3-L19-K38-P8D4J1_2.cnf /cluster/satsuma_kissat_proofs_to_trim/5d62e4d7ab116c477c8d4f5bd36907de-lockchart-group2-rnd0.3-L19-K38-P8D4J1_2.pbp
+
+=== begin stderr ===
+Running as unit: run-p2037899-i48152685.scope; invocation ID: ef915d3e29c84b66a6768e3e06e799e7
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.352503 ==
+Non-zero exit status: 2
+job.id=96
+args={'instance': '/cluster/sat25-instances/60e39615d3af069932865a28b1bf6330-16_16_booth_dadda_mapped_and_and_wallace_mapped_bit28.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/60e39615d3af069932865a28b1bf6330-16_16_booth_dadda_mapped_and_and_wallace_mapped_bit28.cnf /cluster/satsuma_kissat_proofs_to_trim/60e39615d3af069932865a28b1bf6330-16_16_booth_dadda_mapped_and_and_wallace_mapped_bit28.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561296-i21524289.scope; invocation ID: ae6c77a93aa54a8ea61ac643e992df9a
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.353228 ==
+Non-zero exit status: 2
+job.id=114
+args={'instance': '/cluster/sat25-instances/77a0d54f2fb3740a9a321623c0c10f3e-tseitin_grid_n12_m12.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/77a0d54f2fb3740a9a321623c0c10f3e-tseitin_grid_n12_m12.cnf /cluster/satsuma_kissat_proofs_to_trim/77a0d54f2fb3740a9a321623c0c10f3e-tseitin_grid_n12_m12.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561320-i21524313.scope; invocation ID: 3a1f8b0c864540de813dc5a106a3b0c5
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.353867 ==
+Non-zero exit status: 2
+job.id=130
+args={'instance': '/cluster/sat25-instances/8b267f95678c90b2179944de7233b090-ER_500_20_4.apx_1_DC-AD.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/8b267f95678c90b2179944de7233b090-ER_500_20_4.apx_1_DC-AD.cnf /cluster/satsuma_kissat_proofs_to_trim/8b267f95678c90b2179944de7233b090-ER_500_20_4.apx_1_DC-AD.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561338-i21524331.scope; invocation ID: a64ce503896e4bbd8ec503f5e7988f54
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.354487 ==
+Non-zero exit status: 2
+job.id=139
+args={'instance': '/cluster/sat25-instances/965bc4f6691b2e5f7388aaa9ba68f768-SCPC-500-5.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/965bc4f6691b2e5f7388aaa9ba68f768-SCPC-500-5.cnf /cluster/satsuma_kissat_proofs_to_trim/965bc4f6691b2e5f7388aaa9ba68f768-SCPC-500-5.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037952-i48152738.scope; invocation ID: 20356deff1af4f3aa134606bcfe842fb
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.355064 ==
+Non-zero exit status: 2
+job.id=146
+args={'instance': '/cluster/sat25-instances/98a991c902324b02349e766ad357cdc6-16_16_booth_dadda_origin_and_and_dadda_mapped_bit28.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/98a991c902324b02349e766ad357cdc6-16_16_booth_dadda_origin_and_and_dadda_mapped_bit28.cnf /cluster/satsuma_kissat_proofs_to_trim/98a991c902324b02349e766ad357cdc6-16_16_booth_dadda_origin_and_and_dadda_mapped_bit28.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561353-i21524346.scope; invocation ID: 532a9e12cd87464a85553a0fd917232b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.355679 ==
+Non-zero exit status: 2
+job.id=159
+args={'instance': '/cluster/sat25-instances/a7e7d0f855781da215aed50e523a821c-b22_1.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/a7e7d0f855781da215aed50e523a821c-b22_1.cnf /cluster/satsuma_kissat_proofs_to_trim/a7e7d0f855781da215aed50e523a821c-b22_1.pbp
+
+=== begin stderr ===
+Running as unit: run-p2037972-i48152758.scope; invocation ID: f740428bf0cc4e87bdadbbbc9fb6396e
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.356267 ==
+Non-zero exit status: 2
+job.id=172
+args={'instance': '/cluster/sat25-instances/b628043a07c5576dd6cd21c9d73a69e0-fixedbandwidth-eq-37_shuffled.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/b628043a07c5576dd6cd21c9d73a69e0-fixedbandwidth-eq-37_shuffled.cnf /cluster/satsuma_kissat_proofs_to_trim/b628043a07c5576dd6cd21c9d73a69e0-fixedbandwidth-eq-37_shuffled.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561796-i21524789.scope; invocation ID: 9c322a7667dd4206b543e47b45aaa77c
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.356835 ==
+Non-zero exit status: 2
+job.id=214
+args={'instance': '/cluster/sat25-instances/f1cd694d42891a20c96a65ee1c321edc-oddball_24_4_ttf.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/f1cd694d42891a20c96a65ee1c321edc-oddball_24_4_ttf.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/f1cd694d42891a20c96a65ee1c321edc-oddball_24_4_ttf.normalised.pbp
+
+=== begin stderr ===
+Running as unit: run-p561410-i21524403.scope; invocation ID: 2c782bd8ae3d4770bc88c5af16071f84
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.357392 ==
+Non-zero exit status: 2
+job.id=219
+args={'instance': '/cluster/sat25-instances/f6f91f6a44c3953b788c026cbbaa4e91-arles_thres10_p20_r4514.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/f6f91f6a44c3953b788c026cbbaa4e91-arles_thres10_p20_r4514.cnf /cluster/satsuma_kissat_proofs_to_trim/f6f91f6a44c3953b788c026cbbaa4e91-arles_thres10_p20_r4514.pbp
+
+=== begin stderr ===
+Running as unit: run-p2038419-i48153205.scope; invocation ID: 7d13012583884c508f1591a4c7b67f66
+kissat: error: temporary.cnf:1: parse error: more than one clause missing (try '--relaxed' parsing)
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:33.357994 ==
+Non-zero exit status: 2
+job.id=227
+args={'instance': '/cluster/sat25-instances/fea0f926e766ccba7c7dc261084ecbd0-16_16_default_mapped_ultra_and_and_dadda_mapped_bit28.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/fea0f926e766ccba7c7dc261084ecbd0-16_16_default_mapped_ultra_and_and_dadda_mapped_bit28.cnf /cluster/satsuma_kissat_proofs_to_trim/fea0f926e766ccba7c7dc261084ecbd0-16_16_default_mapped_ultra_and_and_dadda_mapped_bit28.pbp
+
+=== begin stderr ===
+Running as unit: run-p2038414-i48153200.scope; invocation ID: 1344928e70764e99beb5bcc8a4470ec3
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.359316 ==
+Non-zero exit status: 2
+job.id=11
+args={'instance': '/cluster/sat25-instances/0a4880c0e882e6a4a31943522573c394-b19_1.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/0a4880c0e882e6a4a31943522573c394-b19_1.cnf /cluster/satsuma_kissat_proofs_to_trim/0a4880c0e882e6a4a31943522573c394-b19_1.pbp
+
+=== begin stderr ===
+Running as unit: run-p98700-i4291526.scope; invocation ID: 5b068237721e4d4b866b809718f00796
+kissat: error: temporary.cnf:1: parse error: more than one clause missing (try '--relaxed' parsing)
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.360617 ==
+Non-zero exit status: 2
+job.id=105
+args={'instance': '/cluster/sat25-instances/6f354fbea13b25a49f3edc1cd10c48d5-bp4_CSO_LP_FPBLE_ZR_YS.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/6f354fbea13b25a49f3edc1cd10c48d5-bp4_CSO_LP_FPBLE_ZR_YS.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/6f354fbea13b25a49f3edc1cd10c48d5-bp4_CSO_LP_FPBLE_ZR_YS.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037912-i48152698.scope; invocation ID: 6f0290e95d014cbca1b4fda814a626d8
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.361926 ==
+Non-zero exit status: 2
+job.id=117
+args={'instance': '/cluster/sat25-instances/7bdf3e5401cc263951003b569bcd689c-bv_ILA_Piccolo_BEQ_sanity_transition.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/7bdf3e5401cc263951003b569bcd689c-bv_ILA_Piccolo_BEQ_sanity_transition.cnf /cluster/satsuma_kissat_proofs_to_trim/7bdf3e5401cc263951003b569bcd689c-bv_ILA_Piccolo_BEQ_sanity_transition.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037927-i48152713.scope; invocation ID: 83b13875257d49b382183a7cd5958d7a
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.363110 ==
+Non-zero exit status: 2
+job.id=121
+args={'instance': '/cluster/sat25-instances/82851650dea77d44864b3fd8ae387691-REGRandom-K3-L3-Seed30.sanitized.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/82851650dea77d44864b3fd8ae387691-REGRandom-K3-L3-Seed30.sanitized.cnf /cluster/satsuma_kissat_proofs_to_trim/82851650dea77d44864b3fd8ae387691-REGRandom-K3-L3-Seed30.sanitized.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037933-i48152719.scope; invocation ID: d473ceec10364ecbbb7de2e2d3e7af99
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.364126 ==
+Non-zero exit status: 2
+job.id=151
+args={'instance': '/cluster/sat25-instances/9b5f767eb5c14eb888d51acf70e045c8-uniqinv40prop.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/9b5f767eb5c14eb888d51acf70e045c8-uniqinv40prop.cnf /cluster/satsuma_kissat_proofs_to_trim/9b5f767eb5c14eb888d51acf70e045c8-uniqinv40prop.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037963-i48152749.scope; invocation ID: e35ed21d7e5e4d5bb9806f9d2fadc1d7
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.365092 ==
+Non-zero exit status: 2
+job.id=175
+args={'instance': '/cluster/sat25-instances/c05d4d3ecd06a2e3942fea09159dd27b-MVRoundRobin_n16_d10_v2.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/c05d4d3ecd06a2e3942fea09159dd27b-MVRoundRobin_n16_d10_v2.cnf /cluster/satsuma_kissat_proofs_to_trim/c05d4d3ecd06a2e3942fea09159dd27b-MVRoundRobin_n16_d10_v2.pbp
+
+=== begin stderr ===
+Running as unit: run-p2038403-i48153189.scope; invocation ID: 59eef55109054d6c8eeffeee833eddb8
+kissat: error: temporary.cnf:1: parse error: more than one clause missing (try '--relaxed' parsing)
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.365946 ==
+Non-zero exit status: 2
+job.id=184
+args={'instance': '/cluster/sat25-instances/d1c28f29dc80ff82a3e32aa47fac8b41-arles_thres10_p10_r8175.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/d1c28f29dc80ff82a3e32aa47fac8b41-arles_thres10_p10_r8175.cnf /cluster/satsuma_kissat_proofs_to_trim/d1c28f29dc80ff82a3e32aa47fac8b41-arles_thres10_p10_r8175.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561793-i21524786.scope; invocation ID: 03c5e39398564c23b08e7b997d8374ac
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:43.366835 ==
+Non-zero exit status: 2
+job.id=191
+args={'instance': '/cluster/sat25-instances/d672bdbca3b1fb26d585e78add79537e-velev-pipe-o-uns-1.1-6.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/d672bdbca3b1fb26d585e78add79537e-velev-pipe-o-uns-1.1-6.cnf /cluster/satsuma_kissat_proofs_to_trim/d672bdbca3b1fb26d585e78add79537e-velev-pipe-o-uns-1.1-6.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2038393-i48153179.scope; invocation ID: 0b514a4ed6a64816b3b3b95c016e5869
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.368224 ==
+Non-zero exit status: 2
+job.id=42
+args={'instance': '/cluster/sat25-instances/28eeb2beac7005a9afa98e4d3aaca621-oski15a01b40s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/28eeb2beac7005a9afa98e4d3aaca621-oski15a01b40s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/28eeb2beac7005a9afa98e4d3aaca621-oski15a01b40s_opt.pbp
+
+=== begin stderr ===
+Running as unit: run-p98702-i4291528.scope; invocation ID: 41099cdccfdc4ec3bfc7c0219abb080f
+kissat: error: temporary.cnf:1: parse error: unexpected end-of-file after '-'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.369580 ==
+Non-zero exit status: 2
+job.id=47
+args={'instance': '/cluster/sat25-instances/2c8eb0402be32cf281e23f00d5a16259-oski15a01b45s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/2c8eb0402be32cf281e23f00d5a16259-oski15a01b45s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/2c8eb0402be32cf281e23f00d5a16259-oski15a01b45s_opt.pbp
+
+=== begin stderr ===
+Running as unit: run-p99165-i4291991.scope; invocation ID: dea02f191e6e44dbb284564102d7eb5f
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.370768 ==
+Non-zero exit status: 2
+job.id=52
+args={'instance': '/cluster/sat25-instances/35748015c5f16c9ee7e4d1894af497a0-oski15a01b39s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/35748015c5f16c9ee7e4d1894af497a0-oski15a01b39s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/35748015c5f16c9ee7e4d1894af497a0-oski15a01b39s_opt.pbp
+
+=== begin stderr ===
+Running as unit: run-p98662-i4291488.scope; invocation ID: cfbdd2c3f91a47b691da8ae6b3c595d5
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.371749 ==
+Non-zero exit status: 2
+job.id=60
+args={'instance': '/cluster/sat25-instances/3c129545f090ef08b6ef89a2903ff83e-oski15a01b09s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/3c129545f090ef08b6ef89a2903ff83e-oski15a01b09s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/3c129545f090ef08b6ef89a2903ff83e-oski15a01b09s_opt.pbp
+
+=== begin stderr ===
+Running as unit: run-p98607-i4291433.scope; invocation ID: df4a9a90c1f94579b13c79b9cbf15ac3
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.372576 ==
+Non-zero exit status: 2
+job.id=81
+args={'instance': '/cluster/sat25-instances/5314fd6ccb53b6f6af49a594ea68a273-oski15a01b15s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/5314fd6ccb53b6f6af49a594ea68a273-oski15a01b15s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/5314fd6ccb53b6f6af49a594ea68a273-oski15a01b15s_opt.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037888-i48152674.scope; invocation ID: cd21d913317847a9a87a1fb467f1725b
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.373340 ==
+Non-zero exit status: 2
+job.id=129
+args={'instance': '/cluster/sat25-instances/8b22396ef06770c7dfa7552a610fc911-PancakeVsSelectionSort_6_7.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/8b22396ef06770c7dfa7552a610fc911-PancakeVsSelectionSort_6_7.cnf /cluster/satsuma_kissat_proofs_to_trim/8b22396ef06770c7dfa7552a610fc911-PancakeVsSelectionSort_6_7.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2037941-i48152727.scope; invocation ID: 59b20507ca3240e7afffae0059c28138
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.374089 ==
+Non-zero exit status: 2
+job.id=198
+args={'instance': '/cluster/sat25-instances/d99fd10afec0eea1a41a429936bfef59-oski15a01b02s_opt.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/d99fd10afec0eea1a41a429936bfef59-oski15a01b02s_opt.cnf /cluster/satsuma_kissat_proofs_to_trim/d99fd10afec0eea1a41a429936bfef59-oski15a01b02s_opt.pbp
+
+=== begin stderr ===
+Running as unit: run-p561394-i21524387.scope; invocation ID: a22c549d7a0a4c82afc167a5a9316ede
+kissat: error: temporary.cnf:1: parse error: trailing zero missing
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:43:53.374807 ==
+Non-zero exit status: 2
+job.id=211
+args={'instance': '/cluster/sat25-instances/efc1b7cc3861df8c2b68ca10399b794e-oddball_19_4_ttf.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/efc1b7cc3861df8c2b68ca10399b794e-oddball_19_4_ttf.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/efc1b7cc3861df8c2b68ca10399b794e-oddball_19_4_ttf.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p2038010-i48152796.scope; invocation ID: 9468e7d9b4dc49d38fa7a4dda94e4d8a
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:44:13.376923 ==
+Non-zero exit status: 2
+job.id=90
+args={'instance': '/cluster/sat25-instances/5c24cfeff639fefdead9a5641f65fa22-c7552.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/5c24cfeff639fefdead9a5641f65fa22-c7552.cnf /cluster/satsuma_kissat_proofs_to_trim/5c24cfeff639fefdead9a5641f65fa22-c7552.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561297-i21524290.scope; invocation ID: b46a801ba7574e9cb556a5ecd46f5402
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:44:13.378351 ==
+Non-zero exit status: 2
+job.id=124
+args={'instance': '/cluster/sat25-instances/8707ef793f0443b5804c56c2ffca322e-clqcl_40_6_5.normalised.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/8707ef793f0443b5804c56c2ffca322e-clqcl_40_6_5.normalised.cnf /cluster/satsuma_kissat_proofs_to_trim/8707ef793f0443b5804c56c2ffca322e-clqcl_40_6_5.normalised.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561332-i21524325.scope; invocation ID: 4fc66fc7bf5c47f7baef66903a151511
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:44:13.379780 ==
+Non-zero exit status: 2
+job.id=206
+args={'instance': '/cluster/sat25-instances/e430acf720b63044e5c825a00a76b0eb-rphp_p25_r25.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/e430acf720b63044e5c825a00a76b0eb-rphp_p25_r25.cnf /cluster/satsuma_kissat_proofs_to_trim/e430acf720b63044e5c825a00a76b0eb-rphp_p25_r25.pbp
+s UNSATISFIABLE
+=== begin stderr ===
+Running as unit: run-p561402-i21524395.scope; invocation ID: 697a9aa6f58b428cbea3f560bb0a9672
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: syntax error near unexpected token `;'
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh: line 49: `else;'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 22:44:43.382395 ==
+Non-zero exit status: 1
+job.id=123
+args={'instance': '/cluster/sat25-instances/847df6bb7bd0a8fcedb57e012cfe0014-valves-gates-1-k617-unsat.shuffled-as.sat03-412.cnf'}
+=== begin stout ===
+Non-zero exit status
+/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh /cluster/sat25-instances/847df6bb7bd0a8fcedb57e012cfe0014-valves-gates-1-k617-unsat.shuffled-as.sat03-412.cnf /cluster/satsuma_kissat_proofs_to_trim/847df6bb7bd0a8fcedb57e012cfe0014-valves-gates-1-k617-unsat.shuffled-as.sat03-412.pbp
+
+=== begin stderr ===
+Running as unit: run-p2037934-i48152720.scope; invocation ID: 650de07219414b86abef726d6d5742c6
+kissat: error: can not read 'temporary.cnf'
+rm: cannot remove '/cluster/satsuma_kissat_proofs_to_trim': Is a directory
+=== end job error ===
+
+=== job error at 2026-03-04 23:00:03.432938 ==
+Non-zero exit status: 143
+job.id=5
+args={'instance': '/cluster/sat25-instances/053e06424279f5cfec8bb14dfa9af23c-oisc-subrv-and-nested-15.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98658-i4291484.scope; invocation ID: cfa706198c9b46ed92cf1f94994b50f2
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:00:03.434379 ==
+Non-zero exit status: 143
+job.id=20
+args={'instance': '/cluster/sat25-instances/113e692e379518bc3277855277dcc1b8-oisc-subrv-sll-nested-8.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98717-i4291543.scope; invocation ID: 61219c9370e74d6994384351bf9af801
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:00:03.435464 ==
+Non-zero exit status: 143
+job.id=26
+args={'instance': '/cluster/sat25-instances/19951d43eff5fc4ef6fd07d7a5324fa0-oddball_80_5_tto_zp.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98721-i4291547.scope; invocation ID: 46c66c141b2f47d082a78e3e86b8c5eb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:00:03.436490 ==
+Non-zero exit status: 143
+job.id=29
+args={'instance': '/cluster/sat25-instances/1a9512580b2d946ebd41de4e8c08c42d-linked_list_swap_contents_safety_unwind50.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98723-i4291549.scope; invocation ID: 3970da54c9ce432eae3a5cb267bcba42
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:01:23.442198 ==
+Non-zero exit status: 143
+job.id=15
+args={'instance': '/cluster/sat25-instances/0dd928240a9559ab7e50d088e3f168ac-pj2002_k500.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98683-i4291509.scope; invocation ID: 1696b1b56d0040c891964de3db452316
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:08:03.464937 ==
+Non-zero exit status: -9
+job.id=153
+args={'instance': '/cluster/sat25-instances/9dd565d002c343712eb5deda187e9034-sqrt-mitern169.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037965-i48152751.scope; invocation ID: 5305189054124cfebc205fa77d1b3442
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:11:53.478963 ==
+Non-zero exit status: -9
+job.id=205
+args={'instance': '/cluster/sat25-instances/e12874b16df577b301608d03731595d8-rphp5_085_shuffled.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038004-i48152790.scope; invocation ID: b443e025077f4a4181caeca5f51f8854
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:12:13.481586 ==
+Non-zero exit status: -9
+job.id=163
+args={'instance': '/cluster/sat25-instances/acc0bc3ef52aa228cc35c2d9bb3ae249-BubbleVsPancakeSort_8_6.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037976-i48152762.scope; invocation ID: 04914880808b4689bef61a08fdd139ab
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:18:23.503021 ==
+Non-zero exit status: -9
+job.id=12
+args={'instance': '/cluster/sat25-instances/0aa22564d00e9716519918d84b25c4a7-sudoku-N30-12.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98597-i4291423.scope; invocation ID: 19dbde58af4e45e6ba5e3ef0136fc995
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:21:53.515412 ==
+Non-zero exit status: -9
+job.id=147
+args={'instance': '/cluster/sat25-instances/99718c1729a8de3347a9946f1836421d-bivium-39-200-0s0-0xdcfb6ab71951500b8e460045bd45afee15c87e08b0072eb174-43.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037960-i48152746.scope; invocation ID: 79d60642547c4584bb0a9a0613ad01cd
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:21:53.516690 ==
+Non-zero exit status: -9
+job.id=177
+args={'instance': '/cluster/sat25-instances/c0e828fb967fc4f0935cf06c6a6b1055-lec_mult_CvW_11x10.sanitized.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037985-i48152771.scope; invocation ID: 0b531ed41b76475da00df029158fa601
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:22:03.518588 ==
+Non-zero exit status: -9
+job.id=40
+args={'instance': '/cluster/sat25-instances/2412325e3c099453b99c87864477363c-arles_thres20_p10_r7340.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98593-i4291419.scope; invocation ID: d11e53fa257c4b3a9e7c3a7062b79638
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:22:03.519902 ==
+Non-zero exit status: -9
+job.id=185
+args={'instance': '/cluster/sat25-instances/d35dfc38e1681b48ebceb4113d205a23-16_2.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037990-i48152776.scope; invocation ID: 24c83ed2b33846aeb34733d5f6a3c7c2
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:22:43.523354 ==
+Non-zero exit status: -9
+job.id=56
+args={'instance': '/cluster/sat25-instances/395829127ec213c2e69a6a13dda3623b-lockchart-group2-rnd0.3-L19-K38-P8D4J1_1.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p99160-i4291986.scope; invocation ID: 5c43a7291ae84ee5a018447c8c9b61af
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:22:53.525755 ==
+Non-zero exit status: -9
+job.id=4
+args={'instance': '/cluster/sat25-instances/04f43bb4a4f2c193a18e7195a4fd8e41-goldcrest-and-11.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98719-i4291545.scope; invocation ID: 445c57b47e26447fb20d4232fd69b778
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:03.527809 ==
+Non-zero exit status: -9
+job.id=155
+args={'instance': '/cluster/sat25-instances/a0bcdaffb0ea36b678899fd86bdc7f18-arles_thres10_p10_r8186.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037968-i48152754.scope; invocation ID: 697f39e085d64d85b472574611213f77
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:13.529797 ==
+Non-zero exit status: -9
+job.id=6
+args={'instance': '/cluster/sat25-instances/062f58e44eb73f9274b57af5092cad90-rook-51-0-0.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98600-i4291426.scope; invocation ID: 3536cad45bca4d63b0f94f834f9fa148
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:13.531320 ==
+Non-zero exit status: -9
+job.id=58
+args={'instance': '/cluster/sat25-instances/3b5d7ec347010e177bfa04b298fc75cf-nla-digbench-scaling_dijkstra-u_valuebound1_transition.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98637-i4291463.scope; invocation ID: 9dae0033417741a1b09a946f328a9da0
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:13.532712 ==
+Non-zero exit status: -9
+job.id=65
+args={'instance': '/cluster/sat25-instances/41d14756a06872844577fc0abddb58aa-tseitin_d3_n100000.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98644-i4291470.scope; invocation ID: c599ba2c834c46368bdb5e45599e9c6b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:13.533713 ==
+Non-zero exit status: -9
+job.id=75
+args={'instance': '/cluster/sat25-instances/4cf3505e5183c26bbd97d89fdaa93f8c-oddball_26_4_ttf.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98656-i4291482.scope; invocation ID: 0df9f212163c42cda0184a67b8a11b34
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:23.535332 ==
+Non-zero exit status: -9
+job.id=2
+args={'instance': '/cluster/sat25-instances/03e852aa864cfe6eb49c264b462b8157-gm24sparrc.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98734-i4291560.scope; invocation ID: f61aeae2aff548ffac12fec2d0c6ffaa
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:23.536631 ==
+Non-zero exit status: -9
+job.id=45
+args={'instance': '/cluster/sat25-instances/29b573e0f7b922c4bd0a675db005265f-b18.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98711-i4291537.scope; invocation ID: 7c90916e5be14492aab7364460244920
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:23.537926 ==
+Non-zero exit status: -9
+job.id=46
+args={'instance': '/cluster/sat25-instances/2bdfcf23ac1829912a408402a540972a-1-ET-256-K-65.sanitized.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98651-i4291477.scope; invocation ID: 770ccfef79824bfaa52a5f833c0ce572
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:23.538914 ==
+Non-zero exit status: -9
+job.id=61
+args={'instance': '/cluster/sat25-instances/3ec81fcaac5a1da8a6ca4da0b9d8eb02-gm16spctrc.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98633-i4291459.scope; invocation ID: dfdd579668b54c40b41dcc731ba261a1
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:23.539735 ==
+Non-zero exit status: -9
+job.id=91
+args={'instance': '/cluster/sat25-instances/5c29ccca91235475f762f4b106f804f2-SGI_30_60_20_50_3-dir.shuffled-as.sat03-114.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037903-i48152689.scope; invocation ID: 1a79187f17cd407295c87bef7a3bacf4
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:23:33.541344 ==
+Non-zero exit status: -9
+job.id=62
+args={'instance': '/cluster/sat25-instances/3ef7fa06c6380f12cfe2970873da6fb1-grs-64-48.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98691-i4291517.scope; invocation ID: 6471e4034f224cd5bf70d89c2e33bc30
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:25:13.548532 ==
+Non-zero exit status: -9
+job.id=64
+args={'instance': '/cluster/sat25-instances/418b8aa42088cb0b1d85014dfa285b25-16_16_booth_wallace_origin_and_and_dadda_mapped_bit28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98673-i4291499.scope; invocation ID: f59293e5e6954806b0a9dc2941a65759
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:27:53.558845 ==
+Non-zero exit status: -9
+job.id=17
+args={'instance': '/cluster/sat25-instances/0ed8c06438673f179985a79b9d6a9fe4-cfi-rigid-s2-0064-04-or_2_shuffle_all.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98714-i4291540.scope; invocation ID: 36d0170f3a454208aa3b0034ea5a1164
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:28:53.563725 ==
+Non-zero exit status: -9
+job.id=213
+args={'instance': '/cluster/sat25-instances/f0bafebdcce23ccfbaf6c27a7522069b-div-mitern172.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038012-i48152798.scope; invocation ID: e2d27f3abb714176b724f29bf43017cd
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:29:33.567340 ==
+Non-zero exit status: -9
+job.id=97
+args={'instance': '/cluster/sat25-instances/6147e666b75f603a4c4490d21ab654cd-hid-uns-enc-6-1-0-0-0-0-14492.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037893-i48152679.scope; invocation ID: c3935f8b8ca94ce3959c000ac14c6d92
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:29:43.569538 ==
+Non-zero exit status: -9
+job.id=169
+args={'instance': '/cluster/sat25-instances/b1c8eaa002ac2fa1c8bfd1002738e78e-cliquecolouring_n15_k7_c6.sanitized.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037981-i48152767.scope; invocation ID: c9111ded77254fa089f9b9298983606d
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:29:53.571787 ==
+Non-zero exit status: -9
+job.id=101
+args={'instance': '/cluster/sat25-instances/69ad7473757d30d55fabab7882268483-BubbleVsPancakeSort_9_4.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037907-i48152693.scope; invocation ID: d3203961435148a6a39898824963e9c2
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:30:03.573699 ==
+Non-zero exit status: -9
+job.id=187
+args={'instance': '/cluster/sat25-instances/d421913def55cb5f7302ffe9918cc153-snw_16_8_preOpt_pre.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038401-i48153187.scope; invocation ID: 01add88f8650410f81fac18e26b6a9cb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:30:53.578357 ==
+Non-zero exit status: -9
+job.id=103
+args={'instance': '/cluster/sat25-instances/6d35bab4302bc221fa2c9234547b848b-contest04-lksat-n1100-m7545-k4-l4-s310659001.sat05-524.reshuffled-07.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037909-i48152695.scope; invocation ID: d911f09d397f4900bd9599e1b8786be8
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:03.580273 ==
+Non-zero exit status: -9
+job.id=54
+args={'instance': '/cluster/sat25-instances/3619135ee5865be0a107449fb31defd9-arles_thres20_p10_r7475.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98727-i4291553.scope; invocation ID: 3cfd94718d1046b5943aab2233d82eb8
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.582195 ==
+Non-zero exit status: -9
+job.id=23
+args={'instance': '/cluster/sat25-instances/16ff47a05b769ed6a04c7175cfc6da55-sqrt-mitern170.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98709-i4291535.scope; invocation ID: b8d6e282fba7488c893313c28a427201
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.583557 ==
+Non-zero exit status: -9
+job.id=32
+args={'instance': '/cluster/sat25-instances/1c30806c5aa9cd54bf823c20fa078243-oddball_26_5_ttf.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98615-i4291441.scope; invocation ID: 17d5fcaea85544f08f31fbc26d1d2f6e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.584837 ==
+Non-zero exit status: -9
+job.id=34
+args={'instance': '/cluster/sat25-instances/1e0d58c7e52319b3b17e343ec7ca6de5-QG7-gensys-icl006.sat05-3132.reshuffled-07.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98686-i4291512.scope; invocation ID: 9b988d961231498b85a06fff3e4751e3
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.586010 ==
+Non-zero exit status: -9
+job.id=57
+args={'instance': '/cluster/sat25-instances/3a1f1b4b9a521737cc760017fe9d8b43-MVRoundRobin_n16_d10_v3.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98725-i4291551.scope; invocation ID: 25e91fad71a9436fa624e1dedae7ba34
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.586924 ==
+Non-zero exit status: -9
+job.id=72
+args={'instance': '/cluster/sat25-instances/4761df10c93b58dc5985ca8a43c959cf-arles_thres10_p10_r8188.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98603-i4291429.scope; invocation ID: 75dc0b0a5341447c8781f6aa38bf47ba
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.587740 ==
+Non-zero exit status: -9
+job.id=74
+args={'instance': '/cluster/sat25-instances/482295be38dc1d63a16f3cf649ef7ef6-myciel6-cn.used-as.sat04-319.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98669-i4291495.scope; invocation ID: 4e865324a1d947f59d6046e6635e45bb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:13.588545 ==
+Non-zero exit status: -9
+job.id=77
+args={'instance': '/cluster/sat25-instances/50519e9e964f30dc34992f0348bd7005-arles_thres10_p10_r8142.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98705-i4291531.scope; invocation ID: 85792d4d92a64d77897dc55a490ea948
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:23.590123 ==
+Non-zero exit status: -9
+job.id=21
+args={'instance': '/cluster/sat25-instances/12820b981e6b199a1b1a8c896386a337-RoundRobin_n16_d14.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98667-i4291493.scope; invocation ID: 69f340e8ffb54a0ca77391a887c3e2b8
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:23.591525 ==
+Non-zero exit status: -9
+job.id=33
+args={'instance': '/cluster/sat25-instances/1d90be3e37a42432d281cf6c1b8eae4b-multiplier_16bits__miter_22.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98621-i4291447.scope; invocation ID: 782b5b37ab4e48f585f18c21d30d2119
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:23.592675 ==
+Non-zero exit status: -9
+job.id=37
+args={'instance': '/cluster/sat25-instances/21b173943af57eefaac5e88bfa2662ad-shuffling-1-s1769330284-of-bench-sat04-422.used-as.sat04-561.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98618-i4291444.scope; invocation ID: 74416738db194c1981266c175b030e72
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:31:33.594495 ==
+Non-zero exit status: -9
+job.id=50
+args={'instance': '/cluster/sat25-instances/31e843c53a76ff3961935ad55b953298-sqrt-mitern171.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98733-i4291559.scope; invocation ID: 3b7c0c5b2f014cbf915ff6c4e13ccbc1
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:37:53.614996 ==
+Non-zero exit status: -9
+job.id=183
+args={'instance': '/cluster/sat25-instances/cdf559a186b55457ce49516ec323e907-at-least-two-traffic_kkb_unknown.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038399-i48153185.scope; invocation ID: 4e208740e7774ea791412152d5b9f6c1
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:38:13.617371 ==
+Non-zero exit status: -9
+job.id=201
+args={'instance': '/cluster/sat25-instances/de8988028668791f35a7b9f94353b5b9-sudoku-N30-16.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038000-i48152786.scope; invocation ID: 4a619c61e57f4234a69cc8386a0a4249
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:38:23.619311 ==
+Non-zero exit status: -9
+job.id=207
+args={'instance': '/cluster/sat25-instances/e442248e155eb81a811edd1deca8a2cd-sudoku-N30-23.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038006-i48152792.scope; invocation ID: 19fc270be68e47cdbb9691e841d879eb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:38:33.621370 ==
+Non-zero exit status: -9
+job.id=221
+args={'instance': '/cluster/sat25-instances/fc67d414ea20a0ffffc087d7577af2fe-sudoku-N30-28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038416-i48153202.scope; invocation ID: 157434f7a207409690b4df8bacd09e73
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:38:43.623426 ==
+Non-zero exit status: -9
+job.id=127
+args={'instance': '/cluster/sat25-instances/89002102bdb86946869a06dc1f604315-lockchart-group1-L210-K303-p8d4j1.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037940-i48152726.scope; invocation ID: a5625bbd22d545a58e64c5c2ac39108c
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:39:13.626855 ==
+Non-zero exit status: -9
+job.id=83
+args={'instance': '/cluster/sat25-instances/539a1f4e4f7a95ab0ac55df50445cceb-multiplier_15bits__miter_23.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037890-i48152676.scope; invocation ID: 177d4633833e4f828eef7b84a1c2700f
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:39:23.628971 ==
+Non-zero exit status: -9
+job.id=99
+args={'instance': '/cluster/sat25-instances/663bb5659e42c2c75f74354f48895302-SCPC-500-13.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037905-i48152691.scope; invocation ID: 0ee6506fc2404fc0a445f08b62b39a3a
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:39:33.631019 ==
+Non-zero exit status: -9
+job.id=109
+args={'instance': '/cluster/sat25-instances/6ff70a3aaf261b35b0b072f454a756be-crafted_n10_d6_c4_num9.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037915-i48152701.scope; invocation ID: c21ef460855b4fc98758dd7e7f3e0cec
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:40:43.636207 ==
+Non-zero exit status: -9
+job.id=137
+args={'instance': '/cluster/sat25-instances/91c429adc2dc8430461b6d87a9aef335-16_16_booth_wallace_mapped_and_and_wallace_origin_bit28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037949-i48152735.scope; invocation ID: ab1a4c041c984c79b77aa1facb27e784
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:40:53.638246 ==
+Non-zero exit status: -9
+job.id=149
+args={'instance': '/cluster/sat25-instances/9a839badecb20dcf505ec79eedd3753a-anbul-dated-5-15-u.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037961-i48152747.scope; invocation ID: 4deeaeb7546743aeb4c5a2152835b32f
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:41:03.640352 ==
+Non-zero exit status: -9
+job.id=215
+args={'instance': '/cluster/sat25-instances/f3abc375afaf48c7eae21500b773bd21-tseitin_grid_n400_m400.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038014-i48152800.scope; invocation ID: 5bc53ab711fb4062aa4354e533e5dfe7
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:41:53.644293 ==
+Non-zero exit status: -9
+job.id=35
+args={'instance': '/cluster/sat25-instances/207ebdf62e5ce54c8b4ddeeb17843a56-hhyp_cec_multi_2.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98608-i4291434.scope; invocation ID: 526deeda9f6c448695fd57a7cf5ffe1b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:42:43.648475 ==
+Non-zero exit status: -9
+job.id=181
+args={'instance': '/cluster/sat25-instances/cb66276897e4d1ff1368a4430598e11c-RoundRobin_n17_d13.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038395-i48153181.scope; invocation ID: d4a842a272324516b89d0f8c80466ab9
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:42:53.650636 ==
+Non-zero exit status: -9
+job.id=14
+args={'instance': '/cluster/sat25-instances/0d8779c22e2caa8d676723701e5a0347-pj2016_k100.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98629-i4291455.scope; invocation ID: 4e7beee9b43041648ee12a1a038bc6e5
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:42:53.651839 ==
+Non-zero exit status: -9
+job.id=225
+args={'instance': '/cluster/sat25-instances/fe851239cedd4197c5390cee55fee723-grs-256-64.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038418-i48153204.scope; invocation ID: 296b457e86054d5abe7fd77f3dcb8144
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:43:03.653506 ==
+Non-zero exit status: -9
+job.id=131
+args={'instance': '/cluster/sat25-instances/8e1f70e59050693ef128bee0092a7f5f-PancakeVsSelectionSort_6_8.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037943-i48152729.scope; invocation ID: bb43772b0ac94acc9521749720ff35f5
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:43:53.657494 ==
+Non-zero exit status: -9
+job.id=95
+args={'instance': '/cluster/sat25-instances/5ff5e9d5aab95667d3d2bd50e1e6792a-b21.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037896-i48152682.scope; invocation ID: 96b8c3a34b144562886ab49e56e8349b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:44:03.659515 ==
+Non-zero exit status: -9
+job.id=199
+args={'instance': '/cluster/sat25-instances/dbb42e010bed2259e4e27bc43e4d86c6-lockchart-group3-L11-K23-p4d3j1.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037998-i48152784.scope; invocation ID: bbdc786ae3d7416ab23b156264a39864
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:46:03.667140 ==
+Non-zero exit status: -9
+job.id=135
+args={'instance': '/cluster/sat25-instances/9118e76885506476cd50cef8b2ec5def-ramsey_3_6_18.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037948-i48152734.scope; invocation ID: 428630af184048078b95b3985d8b716b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:46:13.669215 ==
+Non-zero exit status: -9
+job.id=161
+args={'instance': '/cluster/sat25-instances/aa5585572cc045a3c2209b083635d598-st_815_74_9_2860.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037973-i48152759.scope; invocation ID: dcf9af47c24a437292fd48a4255c864a
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:46:53.672869 ==
+Non-zero exit status: -9
+job.id=189
+args={'instance': '/cluster/sat25-instances/d5928883c1e1f70764a31a83aa419eaf-oski15a01b42s_opt.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038397-i48153183.scope; invocation ID: 876e0472fd804b759bc321638e2599ed
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:48:43.679941 ==
+Non-zero exit status: -9
+job.id=53
+args={'instance': '/cluster/sat25-instances/35ec95b9b2398fb522db178855016ae0-MVRoundRobin_n14_d10_v2.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p99152-i4291978.scope; invocation ID: 6f4814637fb74f3f96d5edda8f083595
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:48:53.681737 ==
+Non-zero exit status: -9
+job.id=7
+args={'instance': '/cluster/sat25-instances/06d2ca2ee0b47f00d93090495f7fd4f4-clqcl_100_6_5.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98649-i4291475.scope; invocation ID: 4020c5c0fece43b49bdece1542460416
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:48:53.683057 ==
+Non-zero exit status: -9
+job.id=30
+args={'instance': '/cluster/sat25-instances/1b3c7ac17705be94daaddb5f5ae4816b-rook-56-0-0.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98623-i4291449.scope; invocation ID: 8d5484d7073e4fcabd51841abae9302b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:48:53.684105 ==
+Non-zero exit status: -9
+job.id=44
+args={'instance': '/cluster/sat25-instances/296fd43ed40e242875984420f29be73f-oddball_24_5_ttf.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98731-i4291557.scope; invocation ID: e2af7364987e4d19adf3ba00af6a34fb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:48:53.685077 ==
+Non-zero exit status: -9
+job.id=66
+args={'instance': '/cluster/sat25-instances/41f507717c7c4553d23cd0cd1fc40104-1-ET-512-K-120.sanitized.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98590-i4291416.scope; invocation ID: 2fe35a6c0f4144b4ab8eb21571e3fd5e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:51:33.693908 ==
+Non-zero exit status: -9
+job.id=59
+args={'instance': '/cluster/sat25-instances/3c0db78733bb05b9d1e9d7627b2e8f38-rook-52-0-1.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p99155-i4291981.scope; invocation ID: ccd872935f184322a778db4cbf50fb8a
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:51:43.695922 ==
+Non-zero exit status: -9
+job.id=38
+args={'instance': '/cluster/sat25-instances/22c8d6aa86d51e15ef5ab37479eda22b-xor_op_n40_d3.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98605-i4291431.scope; invocation ID: d4dd3493c2da4019bbbcefd1ea1c9c64
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:51:43.697241 ==
+Non-zero exit status: -9
+job.id=48
+args={'instance': '/cluster/sat25-instances/30f64b3b0870ce5d22d4217782224dfe-lockchart-group1-L200-K289-p8d4j1.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p98706-i4291532.scope; invocation ID: aafb30bee4004c75a2008b90552e4dfc
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:51:43.698329 ==
+Non-zero exit status: -9
+job.id=76
+args={'instance': '/cluster/sat25-instances/4f4d22ce7643079412975a662e9363fd-xor_op_n38_d3.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p99169-i4291995.scope; invocation ID: ab3b7477c8104e4c92154bf991bded34
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:53:03.703952 ==
+Non-zero exit status: -9
+job.id=195
+args={'instance': '/cluster/sat25-instances/d88c6afc13cdad0e2c8371a879692b39-battleship-13-13-unsat.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037994-i48152780.scope; invocation ID: 6680d7444beb4f468ce09c2a56be3ba1
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:53:33.707069 ==
+Non-zero exit status: -9
+job.id=89
+args={'instance': '/cluster/sat25-instances/5aed29ce52192a55ffbd2a6f340017e7-oisc-subrv-and-nested-12.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037892-i48152678.scope; invocation ID: d7e4282bd08d4bfeab0c1bdad32ada3b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:54:03.710455 ==
+Non-zero exit status: -9
+job.id=145
+args={'instance': '/cluster/sat25-instances/98a9352230efc411c092f1dcdcdedcfc-bp4_BC012_IXA_LPI_FPBLE.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037958-i48152744.scope; invocation ID: 64b994bb1de64e049491b8be8f8de24e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:54:03.712137 ==
+Non-zero exit status: -9
+job.id=167
+args={'instance': '/cluster/sat25-instances/affe8884c8c744ab2f07683ed1cf0d1a-SC25_Timetable_C_498_E_46_Cl_34_D_7_T_50.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037980-i48152766.scope; invocation ID: 15b57194a7224b2886900feb5dc4dff8
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:54:03.713397 ==
+Non-zero exit status: -9
+job.id=223
+args={'instance': '/cluster/sat25-instances/fdc4dd704e4d93a50fafb1debd8a6789-bp4_CB_LP_FPBLE.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038017-i48152803.scope; invocation ID: 0fa3573836a64be2ac45d82a6e23db02
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:54:33.716107 ==
+Non-zero exit status: -9
+job.id=107
+args={'instance': '/cluster/sat25-instances/6f6a20cd654701b5e7fe9e9e0e5e7787-RoundRobin_n18_d15.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037914-i48152700.scope; invocation ID: afba826712874da199db04e7cc82448d
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:54:43.718250 ==
+Non-zero exit status: -9
+job.id=119
+args={'instance': '/cluster/sat25-instances/818c585e5986431917605fca8d775034-g2-hwmcc15deep-oski15a10b10s-k20.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037930-i48152716.scope; invocation ID: 571a47b543154d909c036c430ca2b424
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:56:03.724398 ==
+Non-zero exit status: -9
+job.id=111
+args={'instance': '/cluster/sat25-instances/753ca299a6ab46e28ece1aefa38f4947-oski15a01b01s_opt.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037920-i48152706.scope; invocation ID: cfffeb12d05449dcb9cb11f02f178714
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:56:03.725821 ==
+Non-zero exit status: -9
+job.id=193
+args={'instance': '/cluster/sat25-instances/d839601ab519549e507de27b868fa48b-oski15a01b19s_opt.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037992-i48152778.scope; invocation ID: c8f6a14abbd94323ba87426cfd5a1869
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:56:03.726958 ==
+Non-zero exit status: -9
+job.id=217
+args={'instance': '/cluster/sat25-instances/f626408ec204fd8e1a7924d0e59672e9-oski15a01b41s_opt.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038016-i48152802.scope; invocation ID: a85b4f71d311441abe29d184aa53d037
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:57:03.731330 ==
+Non-zero exit status: -9
+job.id=209
+args={'instance': '/cluster/sat25-instances/ea40162dda3f9b923b6160854cf7f75a-sudoku-N30-15.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038008-i48152794.scope; invocation ID: 6726cd5813504043b0623e6731258c17
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:57:53.735674 ==
+Non-zero exit status: -9
+job.id=143
+args={'instance': '/cluster/sat25-instances/981c4e83c5dd3694af4c367958e0ee5f-tseitin_grid_n250_m250.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037956-i48152742.scope; invocation ID: 2d1f00da00f942818a4ca7d0d9b70295
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:58:03.737951 ==
+Non-zero exit status: -9
+job.id=113
+args={'instance': '/cluster/sat25-instances/76bef98aafe7e718e98761f058c7dc1d-bp4_CB_CSO_LP_FPBEQ_FPBLE.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037921-i48152707.scope; invocation ID: 1d52f6987fd34323994c01914d3cf9be
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:58:03.739319 ==
+Non-zero exit status: -9
+job.id=173
+args={'instance': '/cluster/sat25-instances/b99ba7e9113280393c64863dfbfa2c3b-lockchart-group3-L15-K29-p4d3j1.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2038404-i48153190.scope; invocation ID: f0e0c0fa12b6410e8b7a325ad0a7d784
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:58:13.741206 ==
+Non-zero exit status: -9
+job.id=157
+args={'instance': '/cluster/sat25-instances/a49ec44c8d9972cda278d48b6dbef09e-grs-32-128.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037969-i48152755.scope; invocation ID: 2da8e1663404452f9904f3bd57a64e72
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-04 23:58:14.037601 ==
+Non-zero exit status: -9
+job.id=115
+args={'instance': '/cluster/sat25-instances/77e655b23c0a50d911c0384ef8fe266d-SC25_Timetable_C_495_E_43_Cl_35_D_7_T_58.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2037924-i48152710.scope; invocation ID: 0aa3612937724104b32ddd79e5a4c40e
+Removing proof files
+=== end job error ===
+

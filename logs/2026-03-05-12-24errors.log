@@ -1,0 +1,360 @@
+=== job error at 2026-03-05 12:32:36.812382 ==
+Non-zero exit status: -9
+job.id=15
+args={'instance': '/cluster/sat25-instances/0dd928240a9559ab7e50d088e3f168ac-pj2002_k500.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302542-i48417328.scope; invocation ID: b5232dc7cfc04299a7cd90c236760f5a
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:40:56.836276 ==
+Non-zero exit status: 143
+job.id=26
+args={'instance': '/cluster/sat25-instances/19951d43eff5fc4ef6fd07d7a5324fa0-oddball_80_5_tto_zp.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2303017-i48417803.scope; invocation ID: 5bae2f083ac44ab79d2bc818aa84a47e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:42:26.841328 ==
+Non-zero exit status: -9
+job.id=34
+args={'instance': '/cluster/sat25-instances/1e0d58c7e52319b3b17e343ec7ca6de5-QG7-gensys-icl006.sat05-3132.reshuffled-07.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302516-i48417302.scope; invocation ID: 09d12010fdcb4565a58688537b1e099c
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:42:26.842609 ==
+Non-zero exit status: -9
+job.id=103
+args={'instance': '/cluster/sat25-instances/6d35bab4302bc221fa2c9234547b848b-contest04-lksat-n1100-m7545-k4-l4-s310659001.sat05-524.reshuffled-07.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840030-i21802996.scope; invocation ID: 248051311afb465992e8dccdf9f82d8d
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:43:36.847296 ==
+Non-zero exit status: -9
+job.id=221
+args={'instance': '/cluster/sat25-instances/fc67d414ea20a0ffffc087d7577af2fe-sudoku-N30-28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840513-i21803479.scope; invocation ID: b7cdbaba2c32452ba513114c4b303dbb
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:44:36.851413 ==
+Non-zero exit status: -9
+job.id=222
+args={'instance': '/cluster/sat25-instances/fcc4c4522c54db2f1cee86fe0fff5f4a-x-epic_a19-p16_step.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366711-i4559531.scope; invocation ID: 65152dcc2b87438da8aa94b97c2675ae
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:45:26.855193 ==
+Non-zero exit status: -9
+job.id=13
+args={'instance': '/cluster/sat25-instances/0ccb0f855352783a972be45188bf3164-SCPC-500-12.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302456-i48417242.scope; invocation ID: bb3822013b0e49b7899db17554972c34
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:45:26.856452 ==
+Non-zero exit status: -9
+job.id=71
+args={'instance': '/cluster/sat25-instances/46a8727e27d848faafd83a990c2e01a7-case8.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302476-i48417262.scope; invocation ID: 71666db1e4ba4e00bb273b526b87fc92
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:45:26.857662 ==
+Non-zero exit status: -9
+job.id=205
+args={'instance': '/cluster/sat25-instances/e12874b16df577b301608d03731595d8-rphp5_085_shuffled.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840125-i21803091.scope; invocation ID: eea91ea44e7a4952a1fcf7386b1e21c0
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:45:36.859612 ==
+Non-zero exit status: -9
+job.id=80
+args={'instance': '/cluster/sat25-instances/526caead2f3c84c2918a2fc775dc3e97-ramsey_3_7_23.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366534-i4559354.scope; invocation ID: 342b394976274befa157307e1131423e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:46:16.862516 ==
+Non-zero exit status: -9
+job.id=104
+args={'instance': '/cluster/sat25-instances/6ebe901234af9615bb85b688a26ef2c4-17.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366556-i4559376.scope; invocation ID: f7ed0179c93c43e1a895f07f7b66329d
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:47:06.866214 ==
+Non-zero exit status: -9
+job.id=183
+args={'instance': '/cluster/sat25-instances/cdf559a186b55457ce49516ec323e907-at-least-two-traffic_kkb_unknown.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840112-i21803078.scope; invocation ID: a6f73415352d4dddbf5ffab773138ffe
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:47:06.867554 ==
+Non-zero exit status: -9
+job.id=186
+args={'instance': '/cluster/sat25-instances/d3e4e0f01836bb359725c6aa5072afce-bp4_BC012_AM_IXA_LPI.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p367052-i4559872.scope; invocation ID: a38a342033d049ea897e452837746f7e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:47:26.869514 ==
+Non-zero exit status: -9
+job.id=129
+args={'instance': '/cluster/sat25-instances/8b22396ef06770c7dfa7552a610fc911-PancakeVsSelectionSort_6_7.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840064-i21803030.scope; invocation ID: 62a22d4446694f6da97b486ecd2eb657
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:47:46.871728 ==
+Non-zero exit status: -9
+job.id=131
+args={'instance': '/cluster/sat25-instances/8e1f70e59050693ef128bee0092a7f5f-PancakeVsSelectionSort_6_8.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840068-i21803034.scope; invocation ID: ff8ae0714ab54f1f9b0c52a566bc48e8
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:49:16.876426 ==
+Non-zero exit status: -9
+job.id=113
+args={'instance': '/cluster/sat25-instances/76bef98aafe7e718e98761f058c7dc1d-bp4_CB_CSO_LP_FPBEQ_FPBLE.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840040-i21803006.scope; invocation ID: 1885bd4defb349f0a878bd924985c5ae
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:49:46.879058 ==
+Non-zero exit status: -9
+job.id=153
+args={'instance': '/cluster/sat25-instances/9dd565d002c343712eb5deda187e9034-sqrt-mitern169.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840091-i21803057.scope; invocation ID: c0a5d2cced5a46769e984e07ee591e7f
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:50:46.882427 ==
+Non-zero exit status: -9
+job.id=209
+args={'instance': '/cluster/sat25-instances/ea40162dda3f9b923b6160854cf7f75a-sudoku-N30-15.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840129-i21803095.scope; invocation ID: a586735590d343d19347863989536f84
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:51:16.884846 ==
+Non-zero exit status: -9
+job.id=74
+args={'instance': '/cluster/sat25-instances/482295be38dc1d63a16f3cf649ef7ef6-myciel6-cn.used-as.sat04-319.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302568-i48417354.scope; invocation ID: 87bd307e30ed4aa9bf017d1d1d0a9a3c
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:51:46.887280 ==
+Non-zero exit status: -9
+job.id=177
+args={'instance': '/cluster/sat25-instances/c0e828fb967fc4f0935cf06c6a6b1055-lec_mult_CvW_11x10.sanitized.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840539-i21803505.scope; invocation ID: 7cecbef693664644890687293b96b00e
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:54:16.893371 ==
+Non-zero exit status: -9
+job.id=33
+args={'instance': '/cluster/sat25-instances/1d90be3e37a42432d281cf6c1b8eae4b-multiplier_16bits__miter_22.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302434-i48417220.scope; invocation ID: 4ecee6995a9a457c8530a07b6008ad89
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:56:56.899919 ==
+Non-zero exit status: -9
+job.id=210
+args={'instance': '/cluster/sat25-instances/ebbda8d90dfd9b6500bf932f952907a6-2018D_VexRiscv-regch0-20-p1_step.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366699-i4559519.scope; invocation ID: 5051a8b0cced495da934ec8355caab86
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:57:36.902355 ==
+Non-zero exit status: -9
+job.id=192
+args={'instance': '/cluster/sat25-instances/d6afa5689d75e37111656db8980dd54b-grs-160-48.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p367046-i4559866.scope; invocation ID: d6c7b9ae307944d4b7d9cfc10cc1c989
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:57:46.903850 ==
+Non-zero exit status: -9
+job.id=150
+args={'instance': '/cluster/sat25-instances/9af7646fc4a32c6f2744ddc0c4b654b7-brocard_problem_large.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366621-i4559441.scope; invocation ID: 7267a16b983442f9a46b9855365f86cd
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:57:46.904766 ==
+Non-zero exit status: -9
+job.id=157
+args={'instance': '/cluster/sat25-instances/a49ec44c8d9972cda278d48b6dbef09e-grs-32-128.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p840095-i21803061.scope; invocation ID: 5d9db9bf4a21487a8aef856dddef15f4
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:58:06.906342 ==
+Non-zero exit status: -9
+job.id=148
+args={'instance': '/cluster/sat25-instances/99bd0555ca704df05fcaf6f9b84c7eef-ramsey_3_7_24.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366616-i4559436.scope; invocation ID: fdff02b37eac48c7b3509b94785615bf
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:59:16.909515 ==
+Non-zero exit status: -9
+job.id=51
+args={'instance': '/cluster/sat25-instances/321732c1a401ff109b2f2b447e3dbe5e-16_16_booth_wallace_mapped_and_default_origin_bit28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2303014-i48417800.scope; invocation ID: ad96040a5c464583a38f3e6fda29e84b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 12:59:36.911076 ==
+Non-zero exit status: -9
+job.id=12
+args={'instance': '/cluster/sat25-instances/0aa22564d00e9716519918d84b25c4a7-sudoku-N30-12.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302535-i48417321.scope; invocation ID: cca43b046bb04069809ae4b25add2035
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:01:46.916444 ==
+Non-zero exit status: -9
+job.id=64
+args={'instance': '/cluster/sat25-instances/418b8aa42088cb0b1d85014dfa285b25-16_16_booth_wallace_origin_and_and_dadda_mapped_bit28.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302440-i48417226.scope; invocation ID: 242dd0e7b2944a859b89e7235eae143a
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:02:36.919645 ==
+Non-zero exit status: -9
+job.id=156
+args={'instance': '/cluster/sat25-instances/a1fdd60d2570f47fb14956ac9e96951f-oddball_22_5_ttf.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366647-i4559467.scope; invocation ID: 8d15b8c845e94d9fba3a9d6e6c624be9
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:02:56.921833 ==
+Non-zero exit status: -9
+job.id=216
+args={'instance': '/cluster/sat25-instances/f5c12b1eb9c49e994abb238576a9372b-bp4_BC012_CSO_IXA_LP_FPBLE.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366705-i4559525.scope; invocation ID: 1bd36ce946ff4138a3dbdf0b28ac44dd
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:03:16.924067 ==
+Non-zero exit status: -9
+job.id=194
+args={'instance': '/cluster/sat25-instances/d88a8a62342be0ef04bd3b429f311352-bp4_BC012_CSO_IXA_LP.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366681-i4559501.scope; invocation ID: 9df475ebc629482dbb1b01d0a517246d
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:04:16.927757 ==
+Non-zero exit status: -9
+job.id=200
+args={'instance': '/cluster/sat25-instances/ddc308b079b032211ac8e4ae136c2626-ncc_none_2_17_4_3_0_0_435991723.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366687-i4559507.scope; invocation ID: 438bb14cfaee4fd48b718d2a5a5ace0b
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:04:46.930482 ==
+Non-zero exit status: -9
+job.id=4
+args={'instance': '/cluster/sat25-instances/04f43bb4a4f2c193a18e7195a4fd8e41-goldcrest-and-11.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302436-i48417222.scope; invocation ID: e68691d082c2454692627a2b99fb98f4
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:05:06.932773 ==
+Non-zero exit status: -9
+job.id=196
+args={'instance': '/cluster/sat25-instances/d9320e4dbba0f8bd699085f61a98ff5c-mod4block_3vars_7gates.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p366683-i4559503.scope; invocation ID: 3e0a10ad1c1f452ab606a9f83881560c
+Removing proof files
+=== end job error ===
+
+=== job error at 2026-03-05 13:05:56.935942 ==
+Non-zero exit status: -9
+job.id=44
+args={'instance': '/cluster/sat25-instances/296fd43ed40e242875984420f29be73f-oddball_24_5_ttf.normalised.cnf'}
+=== begin stout ===
+=== begin stderr ===
+Running as unit: run-p2302484-i48417270.scope; invocation ID: 83d9f9506a2642e4a9a02708af7584fc
+Removing proof files
+=== end job error ===
+
