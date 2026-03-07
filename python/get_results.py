@@ -1,3 +1,4 @@
+import argparse
 import os
 import re
 import pandas as pd
@@ -47,7 +48,7 @@ RESULTS_EXTS = {
 TOOLS = ["trim", "elab", "verif_trim", "verif_elab"]
 TOOL_LABELS = ["Trimmer", "VeriPB Elab.", "CakePB (on trim.)", "CakePB (on elab.)"]
 
-CACHE_PATH = "../caches/"
+CACHE_PATH = "/users/grad/mmcilree/projects/TrimmerExperiments/caches/"
 
 
 def eprint(*args, **kwargs):
@@ -123,10 +124,15 @@ def collect_data(solver, force=False):
     cache_path = os.path.join(CACHE_PATH, f"{solver}.cache.parquet")
 
     if not force and os.path.exists(cache_path):
+
         return pd.read_parquet(cache_path)
 
     eprint(f"Results for {solver}")
     results_dir = RESULTS_DIRS[solver]
+    if not os.path.exists(results_dir):
+        eprint(f"Warning, results directory {results_dir} does not exist")
+        return pd.DataFrame()
+
     all_results_files = os.listdir(results_dir)
     instances = set(".".join(file.split(".")[:-1]) for file in all_results_files)
     rows = []
@@ -146,10 +152,10 @@ def collect_data(solver, force=False):
     return df
 
 
-def get_all_solver_data():
+def get_all_solver_data(force=False):
     dfs = {}
     for s in SOLVERS:
-        dfs[s] = collect_data(s)
+        dfs[s] = collect_data(s, force=force)
 
     # combine maxsat and umaxsat
     dfs["pacose"] = pd.concat([dfs["maxsat"], dfs["umaxsat"]])
@@ -159,5 +165,8 @@ def get_all_solver_data():
 
 
 if __name__ == "__main__":
-    dfs = get_all_solver_data()
-    print(dfs["pacose"].head())
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--no_cache", action="store_true")
+    args = parser.parse_args()
+
+    dfs = get_all_solver_data(force=args.no_cache)
