@@ -49,6 +49,8 @@ TOOLS = ["trim", "elab", "verif_trim", "verif_elab"]
 TOOL_LABELS = ["Trimmer", "VeriPB Elab.", "CakePB (on trim.)", "CakePB (on elab.)"]
 
 CACHE_PATH = "/users/grad/mmcilree/projects/TrimmerExperiments/caches/"
+if not os.path.exists(CACHE_PATH):
+    CACHE_PATH = "/Users/matthewmcilree/PhD_Code/TrimmerExperiments/caches"
 
 
 def eprint(*args, **kwargs):
@@ -65,13 +67,12 @@ def dbg(val):
 
 
 def tool_succeeded(tool, output_lines):
-    match tool:
-        case "trim":
-            return any("Proof is verified and Trimmed" in line for line in output_lines)
-        case "elab" | "verif_trim" | "verif_elab":
-            return any("s VERIFIED" in line for line in output_lines)
-        case _:
-            raise ValueError(f"Unexpected tool value: {tool!r}")
+    if tool == "trim":
+        return any("Proof is verified and Trimmed" in line for line in output_lines)
+    elif tool == "elab" | "verif_trim" | "verif_elab":
+        return any("s VERIFIED" in line for line in output_lines)
+    else:
+        raise ValueError(f"Unexpected tool value: {tool!r}")
 
 
 def find_file(exts, results_dir, inst):
@@ -124,8 +125,10 @@ def collect_data(solver, force=False):
     cache_path = os.path.join(CACHE_PATH, f"{solver}.cache.parquet")
 
     if not force and os.path.exists(cache_path):
-
         return pd.read_parquet(cache_path)
+    elif not force:
+        eprint(f"No cache found {cache_path}")
+        exit(1)
 
     eprint(f"Results for {solver}")
     results_dir = RESULTS_DIRS[solver]
