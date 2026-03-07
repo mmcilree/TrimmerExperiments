@@ -69,7 +69,7 @@ def dbg(val):
 def tool_succeeded(tool, output_lines):
     if tool == "trim":
         return any("Proof is verified and Trimmed" in line for line in output_lines)
-    elif tool == "elab" | "verif_trim" | "verif_elab":
+    elif (tool == "elab") or (tool == "verif_trim") or (tool == "verif_elab"):
         return any("s VERIFIED" in line for line in output_lines)
     else:
         raise ValueError(f"Unexpected tool value: {tool!r}")
