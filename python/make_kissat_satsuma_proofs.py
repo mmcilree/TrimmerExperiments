@@ -5,7 +5,7 @@ from argparse import ArgumentParser
 # generated with
 # awk -F '/' '{ print $5 }' track_main_2025_and__result_unsat_or_result___unknown_.uri | xargs -I% find /cluster/sat25-instances/ -name "%*" > sat_or_unknown_instances.txt
 def generate_args():
-    with open("./sat_or_unknown_instances.txt") as inst_file:
+    with open("./2024_sat_or_unknown_instances.txt") as inst_file:
         for instance in inst_file.readlines():
             instance = instance.strip()
             if instance != "":
@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
     config = ExperimentConfig(
         prog="/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh",
-        runner="/users/grad/mmcilree/projects/TrimmerExperiments/scripts/run_single.fish",
+        runner="/users/grad/mmcilree/projects/TrimmerExperiments/fish/run_single.fish",
         nodes=(1, 2, 9),
         host="130.209.251.1",  # fataepyc-head
         overwrite_results=args.overwrite,

@@ -1,6 +1,7 @@
 import argparse
 import os
 import re
+import subprocess
 import pandas as pd
 import numpy as np
 import sys
@@ -31,7 +32,15 @@ PROOF_DIRS = {
 
 ToolResult = namedtuple(
     "ToolResult",
-    ["time", "exit_code", "peak_memory", "time_exit_code", "succeeded", "output_lines"],
+    [
+        "time",
+        "exit_code",
+        "peak_memory",
+        "time_exit_code",
+        "succeeded",
+        "output_lines",
+        "output_normalised",
+    ],
 )
 
 RESULTS_EXTS = {
@@ -44,6 +53,8 @@ RESULTS_EXTS = {
     "verif_elab": {"time": ["cakeonelaboratetime"], "out": ["cakeonelaborateout"]},
 }
 
+SIZE_EXTS = {"orig": "pbp", "trim": "trimmedpb", "elab": "elaboratepb"}
+
 
 TOOLS = ["trim", "elab", "verif_trim", "verif_elab"]
 TOOL_LABELS = ["Trimmer", "VeriPB Elab.", "CakePB (on trim.)", "CakePB (on elab.)"]
@@ -51,6 +62,17 @@ TOOL_LABELS = ["Trimmer", "VeriPB Elab.", "CakePB (on trim.)", "CakePB (on elab.
 CACHE_PATH = "/users/grad/mmcilree/projects/TrimmerExperiments/caches/"
 if not os.path.exists(CACHE_PATH):
     CACHE_PATH = "/Users/matthewmcilree/PhD_Code/TrimmerExperiments/caches"
+
+
+PROOFS_PATH = "/scratch/ciaran/20260224-trimming"
+NODES = ["01", "02", "03", "04", "07", "08", "09"]
+
+RE_PBP = re.compile(r"[^\s]*.pbp")
+RE_PB_SUM = re.compile(r"((?:\d+ ~?x[\d_]+ ?)+)")
+RE_POL_STATEMENT = re.compile(r"pol.*\\n")
+RE_LIST_NUMS = re.compile(r"\d+ (\d+ )+")
+RE_DIGITS = re.compile(r"\d+")
+RE_EXPECTED_MSG = re.compile(r"Running VeriPB|Warning|Switched to proof version")
 
 
 def eprint(*args, **kwargs):
@@ -75,7 +97,7 @@ def tool_succeeded(tool, output_lines):
         raise ValueError(f"Unexpected tool value: {tool!r}")
 
 
-def find_file(exts, results_dir, inst):
+def find_results_file(exts, results_dir, inst):
     for ext in exts:
         file_path = os.path.join(results_dir, inst + "." + ext)
         if os.path.exists(file_path):
@@ -86,7 +108,7 @@ def find_file(exts, results_dir, inst):
 
 
 def parse_time(tool, results_dir, inst):
-    file_path = find_file(RESULTS_EXTS[tool]["time"], results_dir, inst)
+    file_path = find_results_file(RESULTS_EXTS[tool]["time"], results_dir, inst)
     if file_path is None:
         return (np.nan,) * 4
 
@@ -109,16 +131,59 @@ def parse_time(tool, results_dir, inst):
 
 
 def parse_output(tool, results_dir, inst):
-    file_path = find_file(RESULTS_EXTS[tool]["out"], results_dir, inst)
+    file_path = find_results_file(RESULTS_EXTS[tool]["out"], results_dir, inst)
     if file_path is None:
-        return (np.nan, [])
+        return (np.nan, [], "")
 
     lines = open(file_path).readlines()
     if not lines:
         eprint(f"Warning: {file_path} appears to be empty")
-        return (np.nan, [])
+        return (np.nan, [], "")
 
-    return (0, lines) if tool_succeeded(tool, lines) else (1, lines)
+    msg = "".join(l for l in lines if not RE_EXPECTED_MSG.search(l))
+    msg = msg.replace("\n", "\\n")
+    msg = re.sub(RE_PBP, "<FILE>.pbp", msg)
+    msg = re.sub(RE_PB_SUM, "<PB CONSTRAINT>", msg)
+    msg = re.sub(RE_LIST_NUMS, "<LIST OF NUMS>", msg)
+    msg = re.sub(RE_POL_STATEMENT, "<POL STATEMENT>", msg)
+    if not ".rs" in msg:
+        msg = re.sub(
+            RE_DIGITS, "<N>", msg
+        )  # replace all numbers, except rust line numbers
+
+    if len(msg) >= 300:
+        msg = msg[:300] + "<...truncated the rest>"
+    return (True, lines, msg) if tool_succeeded(tool, lines) else (False, lines, msg)
+
+
+def get_all_path_and_sizes_from_node(node, exts, dir):
+    ext_pattern = " -o ".join(f"-name '*.{ext}'" for ext in exts)
+    cmd = f"find {dir} \\( {ext_pattern} \\) -type f | xargs -I {{}} du -k {{}}"
+    result = subprocess.run(
+        ["ssh", "-tq", f"fataepyc-{node}", cmd], capture_output=True, text=True
+    )
+    sizes = {}
+    file_paths = {}
+    for line in result.stdout.splitlines():
+        parts = line.split()
+        if len(parts) == 2:
+            filename = os.path.basename(parts[1])
+            sizes[filename] = int(parts[0])
+            file_paths[filename] = f"fataepyc-{node}:" + parts[1]
+    return sizes, file_paths
+
+
+def get_all_paths_and_sizes(dir):
+    sizes = {}
+    file_paths = {}
+    for node in NODES:
+        eprint(f"Collecting sizes from fataepyc-{node}")
+        sizes_from_node, paths_from_node = get_all_path_and_sizes_from_node(
+            node, SIZE_EXTS.values(), dir
+        )
+        sizes.update(sizes_from_node)
+        file_paths.update(paths_from_node)
+    return sizes, file_paths
 
 
 def collect_data(solver, force=False):
@@ -130,6 +195,7 @@ def collect_data(solver, force=False):
         eprint(f"No cache found {cache_path}")
         exit(1)
 
+    sizes, paths = get_all_paths_and_sizes(PROOF_DIRS[solver])
     eprint(f"Results for {solver}")
     results_dir = RESULTS_DIRS[solver]
     if not os.path.exists(results_dir):
@@ -148,6 +214,12 @@ def collect_data(solver, force=False):
             )
             for field in ToolResult._fields:
                 row[f"{tool}_{field}"] = getattr(result, field)
+
+        for tool, ext in SIZE_EXTS.items():
+            size_key = f"{inst}.{ext}"
+            row[f"{tool}_size"] = sizes.get(size_key, np.nan)
+            row[f"{tool}_path"] = paths.get(size_key, "")
+
         rows.append(row)
 
     df = pd.DataFrame(rows).set_index("instance")
@@ -171,5 +243,4 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--no_cache", action="store_true")
     args = parser.parse_args()
-
     dfs = get_all_solver_data(force=args.no_cache)

@@ -3,7 +3,7 @@ set solver_binary $argv[1]
 set instance $argv[2]
 set instance_name $(basename $instance ".cnf")
 set instance_dir $(dirname $instance)
-set proof_path /scratch/kissat_proofs_to_trim
+set proof_path /scratch/kissat_2024_proofs_to_trim
 
 if not test -d $proof_path 
     mkdir $proof_path

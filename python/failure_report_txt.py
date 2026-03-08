@@ -37,6 +37,9 @@ def find_example_files(solver, inst):
     return paths
 
 
+with open("failing_instances_per_pattern.txt", "w") as f:
+    pass
+
 for solver in dfs.keys():
     df = dfs[solver]
     for tool, label in zip(TOOLS, TOOL_LABELS):
@@ -68,10 +71,18 @@ for solver in dfs.keys():
             if len(raw) >= 300:
                 raw = raw[:300] + "<...truncated the rest>"
 
-            example_instance[msg] = instance
+            if msg not in example_instance:
+                example_instance[msg] = []
+
+            example_instance[msg].append(instance)
+
             msgs_raw.append(raw)
 
         counts = Counter(msgs_normalised)
+        with open("failing_instances_per_pattern.txt", "a") as f:
+            f.write(f"\n\n{label} - {solver}: ({len(failures)} non timeout failures)")
+            f.write(f"\n------------")
+
         for pattern, count in counts.most_common():
             # if count == 1:
             if count == 1:
@@ -80,7 +91,17 @@ for solver in dfs.keys():
                 print(f'   1x  "{msgs_raw[idx]}"')
             else:
                 print(f'{count:4d}x  "{pattern}"')
-            examples = find_example_files(solver, example_instance[pattern])
-            print(f"Example: {" ".join(examples)}")
+
+            example_files = [
+                find_example_files(solver, e) for e in example_instance[pattern]
+            ]
+            with open("failing_instances_per_pattern.txt", "a") as f:
+                f.write("\n\nMessage: ")
+                f.write(pattern)
+                f.write("\n--Examples: \n")
+                for e in example_files:
+                    f.write(" ".join(e) + "\n")
+
+            print(f"Example: {" ".join(example_files[-1])}")
             print(f"------------")
         print()
