@@ -27,8 +27,8 @@ if __name__ == "__main__":
 
     config = ExperimentConfig(
         prog="/users/grad/mmcilree/projects/TrimmerExperiments/solvers/satsuma-kissat-sc/run.sh",
-        runner="/users/grad/mmcilree/projects/TrimmerExperiments/fish/run_single.fish",
-        nodes=(1, 2, 9),
+        runner="/users/grad/mmcilree/projects/TrimmerExperiments/fish/run_single_satsuma_kissat.fish",
+        nodes=(1, 2, 3, 4, 7, 8, 9, 10),
         host="130.209.251.1",  # fataepyc-head
         overwrite_results=args.overwrite,
         results_file="satsuma_results.csv",

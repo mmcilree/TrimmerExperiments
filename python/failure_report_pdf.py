@@ -74,7 +74,8 @@ def write_failure_report_pdf(dfs, tools, tool_labels, out_path="failure_report.p
         df = dfs[solver]
         for tool, label in zip(tools, tool_labels):
             failures = df[
-                (df[f"{tool}_succeeded"] == 1) & (df[f"{tool}_time_exit_code"] != 124)
+                (df[f"{tool}_succeeded"] == False)
+                & (df[f"{tool}_time_exit_code"] != 124)
             ]
 
             msgs_raw, msgs_normalised = [], []

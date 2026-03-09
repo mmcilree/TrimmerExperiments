@@ -33,8 +33,8 @@ def success_counts(df: pd.DataFrame, tool: str) -> tuple[int, int]:
 
     if col not in df.columns:
         return 0, 0
-    n_failed = len(df[df[col] == 1])
-    n_succeeded = len(df[df[col] == 0])
+    n_failed = len(df[df[col] == False])
+    n_succeeded = len(df[df[col] == True])
     n_timeout = len(df[df[time_exit] == 124])
     n_failed -= n_timeout
     return n_succeeded, n_timeout, n_failed
